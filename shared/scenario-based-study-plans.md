@@ -357,3 +357,5 @@ It should answer all four:
 2. how to prepare it
 3. what can be deprioritized
 4. what daily habits should be non-negotiable
+
+If the learner has a real exam date and cares about score certainty, the agent should also say whether an official PTE mock is recommended as the final validation layer.

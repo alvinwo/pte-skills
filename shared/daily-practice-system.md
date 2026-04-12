@@ -127,6 +127,7 @@ Pass efficiently, not perfectly.
 - 2–3 days of mixed sets
 - light writing structure work
 - minimal time on low-yield MCQ unless obviously weak
+- consider one official mock near the exam window to validate Speaking and Writing readiness
 
 ### Warning
 Do not waste too much time polishing difficult low-yield tasks if the score target is modest.
@@ -148,6 +149,7 @@ Protect every section floor.
 - 1–2 section-level mini-mocks
 - more time on the weakest communicative skill
 - protect strong skills with light maintenance
+- use at least one official mock before the real exam if possible, especially to validate Speaking and Writing
 
 ### Warning
 Do not focus only on the overall feeling of improvement.
@@ -171,6 +173,7 @@ Raise ceiling and reduce leaks.
 - at least one high-quality mock or section simulation each week
 - deliberate work on low-yield leak prevention
 - repeated review of small accuracy problems
+- official mocks are strongly recommended as the final validation layer for Speaking and Writing readiness
 
 ### Warning
 At this level, careless errors matter a lot.
@@ -250,11 +253,12 @@ After each serious session, the learner should log:
 
 ## What the agent should output when giving a plan
 A useful daily plan should always tell the learner:
-1. what to do every day
-2. how many minutes to spend on each block
-3. what their weak-skill block is
-4. what they can skip or reduce
-5. what they must review after practice
+- what to do every day
+- how many minutes to spend on each block
+- what their weak-skill block is
+- what they can skip or reduce
+- what they must review after practice
+- when an official mock should be used to validate readiness
 
 ## Future improvement ideas
 This file can later be paired with:

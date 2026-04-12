@@ -56,6 +56,7 @@ Useful supporting files:
 - `shared/daily-practice-system.md`
 - `shared/vocabulary-strategy.md`
 - `shared/low-yield-vs-high-yield-questions.md`
+- `shared/official-mock-test-guidance.md`
 
 ## Step 5: Keep content separate from strategy
 Question banks can be refreshed later.

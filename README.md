@@ -34,6 +34,7 @@ pte-skills/
 │  ├─ daily-practice-system.md
 │  ├─ vocabulary-strategy.md
 │  ├─ low-yield-vs-high-yield-questions.md
+│  ├─ official-mock-test-guidance.md
 │  └─ question-type-mapping.md
 ├─ data/
 │  └─ au-home-affairs-english-requirements.json
@@ -67,6 +68,7 @@ pte-skills/
   - 4个8 learners
 - Daily practice system and vocabulary strategy
 - High-yield vs low-yield question prioritization
+- Official mock-test guidance for validating speaking and writing readiness
 
 ### Question-type skills
 Current high-value skill pages:
