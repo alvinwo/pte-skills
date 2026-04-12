@@ -200,6 +200,11 @@ Before recommending drills, ask:
 
 Then route learners to the highest-yield question types for their weak skills.
 
+For scenario-specific planning, also consult `shared/scenario-based-study-plans.md` so the agent can adjust recommendations for:
+- lower-threshold student visa users
+- 4个7 users who need balanced section protection
+- 4个8 users who need stronger consistency and fewer point leaks
+
 ## Recommended default priority map
 ### If Speaking is weak
 - Repeat Sentence

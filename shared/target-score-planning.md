@@ -42,11 +42,14 @@ Prefer this ranking logic:
 
 ## Step 4: Build the study plan
 A plan should include:
+- the learner scenario (generic prep, student visa, 4个7, 4个8)
 - 1–2 primary high-yield question types
 - 1 support question type
 - 1 maintenance question type
 - timing / fluency / format focus
 - review loop for mistakes
+- daily non-negotiables such as vocabulary, RS, RA, and WFD where relevant
+- low-yield tasks that can be deprioritized if time is limited
 
 ## Step 5: Keep content separate from strategy
 Question banks can be refreshed later.

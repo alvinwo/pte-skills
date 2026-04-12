@@ -30,6 +30,7 @@ pte-skills/
 │  ├─ current-score-priority-matrix.md
 │  ├─ target-score-planning.md
 │  ├─ australian-visa-english-requirements.md
+│  ├─ scenario-based-study-plans.md
 │  └─ question-type-mapping.md
 ├─ data/
 │  └─ au-home-affairs-english-requirements.json
