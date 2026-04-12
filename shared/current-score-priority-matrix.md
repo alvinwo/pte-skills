@@ -205,6 +205,11 @@ For scenario-specific planning, also consult `shared/scenario-based-study-plans.
 - 4个7 users who need balanced section protection
 - 4个8 users who need stronger consistency and fewer point leaks
 
+For daily implementation details, pair the matrix with:
+- `shared/daily-practice-system.md`
+- `shared/vocabulary-strategy.md`
+- `shared/low-yield-vs-high-yield-questions.md`
+
 ## Recommended default priority map
 ### If Speaking is weak
 - Repeat Sentence

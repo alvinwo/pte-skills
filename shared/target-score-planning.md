@@ -51,6 +51,12 @@ A plan should include:
 - daily non-negotiables such as vocabulary, RS, RA, and WFD where relevant
 - low-yield tasks that can be deprioritized if time is limited
 
+Useful supporting files:
+- `shared/scenario-based-study-plans.md`
+- `shared/daily-practice-system.md`
+- `shared/vocabulary-strategy.md`
+- `shared/low-yield-vs-high-yield-questions.md`
+
 ## Step 5: Keep content separate from strategy
 Question banks can be refreshed later.
 The skill pack should first provide:

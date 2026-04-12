@@ -124,6 +124,16 @@ Short polite opening or closing can be added if helpful, but avoid sounding memo
 - restarting after small mistakes
 - speaking too dramatically instead of steadily
 
+## Scenario-specific advice
+### Student visa / lower threshold
+RTS should be learned as a safe structure task. Do not overinvest here before RA, RS, DI, and WFD are stable.
+
+### 4个7
+RTS is useful for Speaking stability. Practice enough to avoid breakdowns, but do not let it replace the bigger engine tasks.
+
+### 4个8
+RTS still matters because weak relevance, poor register control, or hesitations can leak points. Focus on prompt fit, tone, and stable fluency.
+
 ## Coaching advice for learners
 - Treat the task like a short real-life voice message.
 - Think **context + problem + response**.

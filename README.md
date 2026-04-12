@@ -31,11 +31,22 @@ pte-skills/
 │  ├─ target-score-planning.md
 │  ├─ australian-visa-english-requirements.md
 │  ├─ scenario-based-study-plans.md
+│  ├─ daily-practice-system.md
+│  ├─ vocabulary-strategy.md
+│  ├─ low-yield-vs-high-yield-questions.md
 │  └─ question-type-mapping.md
 ├─ data/
 │  └─ au-home-affairs-english-requirements.json
 ├─ skills/
-│  └─ pte-question-skill-template.md
+│  ├─ pte-question-skill-template.md
+│  ├─ pte-read-aloud.md
+│  ├─ pte-repeat-sentence.md
+│  ├─ pte-describe-image.md
+│  ├─ pte-retell-lecture.md
+│  ├─ pte-summarize-group-discussion.md
+│  ├─ pte-respond-to-a-situation.md
+│  ├─ pte-write-from-dictation.md
+│  └─ pte-reading-blanks.md
 └─ examples/
    └─ sample-session-outline.md
 ```
@@ -50,16 +61,28 @@ pte-skills/
   - Writing
 - Mapping between PTE question types and the core skill areas they train
 - Audit notes for current official PTE question-type coverage
+- Scenario-based planning for:
+  - student visa / lower-threshold learners
+  - 4个7 learners
+  - 4个8 learners
+- Daily practice system and vocabulary strategy
+- High-yield vs low-yield question prioritization
 
 ### Question-type skills
-Initial high-value targets:
+Current high-value skill pages:
 - Read Aloud
 - Repeat Sentence
 - Describe Image
 - Retell Lecture
-- Write From Dictation
 - Summarize Group Discussion
 - Respond to a Situation
+- Write From Dictation
+- Reading Blanks
+
+Next expansion targets:
+- Summarize Written Text
+- Summarize Spoken Text
+- Write Essay refinement by target scenario
 
 ## Design principles
 

@@ -332,9 +332,9 @@ The current skill pack should expand to include scenario-aware advice like:
 - how WFD/RS daily listening supports both listening and writing
 - how to turn a weak skill into a question-type shortlist instead of a vague plan
 
-## Recommended future skill modules
-To make the skill pack more useful, add dedicated documents or skills for:
-- `shared/pte-user-scenarios.md`
+## Recommended supporting modules
+Already added in this repo:
+- `shared/scenario-based-study-plans.md`
 - `shared/daily-practice-system.md`
 - `shared/vocabulary-strategy.md`
 - `shared/low-yield-vs-high-yield-questions.md`
@@ -343,6 +343,12 @@ To make the skill pack more useful, add dedicated documents or skills for:
 - `skills/pte-describe-image.md`
 - `skills/pte-write-from-dictation.md`
 - `skills/pte-reading-blanks.md`
+
+Still worth adding next:
+- `skills/pte-retell-lecture.md`
+- `skills/pte-summarize-group-discussion.md`
+- `skills/pte-respond-to-a-situation.md` refinement aligned with scenario routing
+- section-specific mock and review templates
 
 ## Runtime coaching rule
 When the learner gives a target, the agent should not stop at a score threshold.
