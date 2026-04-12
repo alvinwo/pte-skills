@@ -113,3 +113,5 @@ When helping learners with WE topics, the skill should:
 - offer reusable sentence patterns
 - highlight possible scoring keywords and phrases
 - prioritize accuracy over sophistication
+- use fill-in-the-blank templates when helpful
+- guide learners to mix simple, compound, and complex sentences across blanks
