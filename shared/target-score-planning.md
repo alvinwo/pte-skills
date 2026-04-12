@@ -21,6 +21,11 @@ Then identify the biggest gap first.
 ## Step 3: Route by high-yield question types
 Use `shared/current-score-priority-matrix.md` to decide which question types matter most for that learner.
 
+Prefer this ranking logic:
+1. Official Pearson structure and scoring-trait information
+2. Current practical weighting reference from the user-shared V4.1 matrix
+3. Learner-specific weak-skill gap
+
 ### Default routing examples
 - Speaking gap -> RS, RA, DI, RTS, SGD, RL
 - Listening gap -> WFD, RS, HIW, FIB-L, SGD, RL

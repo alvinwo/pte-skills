@@ -5,6 +5,19 @@ This file is an updated **practical score matrix** for the current PTE Academic 
 ## Important caveat
 Pearson's current official materials **do not publish a public percentage weighting table** like some older prep charts circulating online.
 
+However, the user has now provided a newer third-party matrix image labeled:
+- **猩际 PTE**
+- **PTE 内容题型 & 分数信息表 V4.1 (25.08.07 开始)**
+
+That matrix is **not an official Pearson document**, but it appears to be a more current operational estimate than older 2022-era charts because it:
+- includes the newer task types **Summarize Group Discussion (SGD)** and **Respond to a Situation (RTS)**
+- normalizes weights to 100% within each communicative skill
+- reflects the current 22-question-type structure
+
+So this file now uses a **two-layer approach**:
+1. **Official Pearson structure and scoring traits** as the hard source of truth
+2. **User-shared V4.1 matrix** as the best current practical weighting reference, with caution that real exams may vary by item count
+
 What Pearson does publish officially:
 - current question types
 - approximate number of questions
@@ -25,6 +38,9 @@ So this file is designed to be the **latest defensible matrix** we can use for c
 - `https://www.pearsonpte.com/pte-academic/scoring`
 - `PTE Academic Test Taker Score Guide` PDF linked from Pearson scoring page
 
+## Additional practical reference
+- user-shared image: **猩际 PTE 内容题型 & 分数信息表 V4.1 (25.08.07 开始)**
+
 ## How to use this matrix
 When helping a learner:
 1. Ask for target scores:
@@ -38,6 +54,57 @@ When helping a learner:
    - frequent
    - heavily scored or trait-rich
 4. Build the study plan around those tasks first.
+
+---
+
+## Practical weighting reference from user-shared V4.1 matrix
+These percentages come from the user-shared **猩际 PTE V4.1 (25.08.07 开始)** image, not from Pearson directly.
+
+### Speaking
+- Read Aloud: **14%**
+- Repeat Sentence: **20%**
+- Describe Image: **34%**
+- Retell Lecture: **11%**
+- Summarize Group Discussion: **13%**
+- Respond to a Situation: **8%**
+
+### Writing
+- Summarize Written Text: **25.5%**
+- Write Essay: **25.5%**
+- Summarize Spoken Text: **23.5%**
+- Write from Dictation: **25.5%**
+
+### Reading
+- Fill in the Blanks (Dropdown): **28%**
+- Multiple Choice, Multiple Answers (Reading): **6%**
+- Reorder Paragraph: **8%**
+- Fill in the Blanks (Drag and Drop): **18%**
+- Multiple Choice, Single Answer (Reading): **2%**
+- Summarize Written Text: **19%**
+- Highlight Correct Summary: **3%**
+- Highlight Incorrect Words: **16%**
+
+### Listening
+- Repeat Sentence: **19%**
+- Retell Lecture: **10%**
+- Answer Short Question: **5%**
+- Summarize Group Discussion: **15%**
+- Summarize Spoken Text: **10%**
+- Multiple Choice, Multiple Answers (Listening): **4%**
+- Fill in the Blanks (Type In): **9%**
+- Highlight Correct Summary: **1%**
+- Multiple Choice, Single Answer (Listening): **1%**
+- Select Missing Word: **1%**
+- Highlight Incorrect Words: **11%**
+- Write from Dictation: **14%**
+
+### Practical implications from V4.1
+- **Describe Image** is the largest Speaking contributor in this matrix.
+- **Repeat Sentence** remains extremely important for both Speaking and Listening.
+- **Summarize Group Discussion** is now a major task for both Speaking and Listening.
+- **Respond to a Situation** matters enough that it should not be treated as a low-priority side task.
+- **Write from Dictation** remains critical for Writing and strong for Listening.
+- **Reading multiple choice tasks remain relatively low-yield** compared with blanks and integrated tasks.
 
 ---
 
