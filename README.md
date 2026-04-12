@@ -29,7 +29,10 @@ pte-skills/
 │  ├─ current-pte-question-type-audit.md
 │  ├─ current-score-priority-matrix.md
 │  ├─ target-score-planning.md
+│  ├─ australian-visa-english-requirements.md
 │  └─ question-type-mapping.md
+├─ data/
+│  └─ au-home-affairs-english-requirements.json
 ├─ skills/
 │  └─ pte-question-skill-template.md
 └─ examples/

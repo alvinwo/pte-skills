@@ -11,6 +11,8 @@ Before planning drills, ask the learner:
 - target listening score
 - current estimated or official scores if available
 - test date if known
+- whether the goal is general PTE prep or an Australian visa English requirement
+- visa subclass if immigration is the reason for the test
 
 ## Step 2: Diagnose by score gap
 For each communicative skill:
@@ -20,6 +22,12 @@ Then identify the biggest gap first.
 
 ## Step 3: Route by high-yield question types
 Use `shared/current-score-priority-matrix.md` to decide which question types matter most for that learner.
+
+If the learner is preparing for an Australian visa threshold, also use:
+- `shared/australian-visa-english-requirements.md` for the saved reference
+- `data/au-home-affairs-english-requirements.json` for structured thresholds
+
+Before confirming whether the learner meets an immigration requirement, validate the threshold live against the linked Department of Home Affairs source pages.
 
 Prefer this ranking logic:
 1. Official Pearson structure and scoring-trait information

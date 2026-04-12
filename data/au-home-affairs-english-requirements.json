@@ -1,0 +1,67 @@
+{
+  "source": {
+    "provider": "Australian Department of Home Affairs",
+    "main_url": "https://immi.homeaffairs.gov.au/help-support/meeting-our-requirements/english-language",
+    "level_urls": {
+      "functional": "https://immi.homeaffairs.gov.au/help-support/meeting-our-requirements/english-language/functional-english",
+      "vocational": "https://immi.homeaffairs.gov.au/help-support/meeting-our-requirements/english-language/vocational-english",
+      "competent": "https://immi.homeaffairs.gov.au/help-support/meeting-our-requirements/english-language/competent-english",
+      "proficient": "https://immi.homeaffairs.gov.au/help-support/meeting-our-requirements/english-language/proficient-english",
+      "superior": "https://immi.homeaffairs.gov.au/help-support/meeting-our-requirements/english-language/superior-english"
+    },
+    "note": "Home Affairs says approved English tests changed on 7 August 2025. PTE Academic keeps the same name as the previous version, but accepted scores are different. Validate live before giving final migration advice."
+  },
+  "runtime_validation": {
+    "required": true,
+    "when": [
+      "before final migration advice",
+      "before telling a user they meet or do not meet a visa English requirement",
+      "when the user mentions a visa subclass or application deadline"
+    ],
+    "checks": [
+      "confirm the correct English level",
+      "confirm the visa subclass",
+      "confirm whether the user is using PTE Academic specifically",
+      "re-check the official Home Affairs page for current thresholds and validity windows"
+    ]
+  },
+  "pte_academic": {
+    "functional": {
+      "requirement_type": "overall",
+      "overall_min": 24,
+      "validity_note": "generally within 12 months before visa application, depending on visa subclass"
+    },
+    "vocational": {
+      "requirement_type": "per_component",
+      "listening_min": 33,
+      "reading_min": 36,
+      "writing_min": 29,
+      "speaking_min": 24,
+      "validity_note": "generally up to 3 years, depending on visa subclass"
+    },
+    "competent": {
+      "requirement_type": "per_component",
+      "listening_min": 47,
+      "reading_min": 48,
+      "writing_min": 51,
+      "speaking_min": 54,
+      "validity_note": "generally up to 3 years, depending on visa subclass"
+    },
+    "proficient": {
+      "requirement_type": "per_component",
+      "listening_min": 58,
+      "reading_min": 59,
+      "writing_min": 69,
+      "speaking_min": 76,
+      "validity_note": "generally up to 3 years, depending on visa subclass"
+    },
+    "superior": {
+      "requirement_type": "per_component",
+      "listening_min": 69,
+      "reading_min": 70,
+      "writing_min": 85,
+      "speaking_min": 88,
+      "validity_note": "generally up to 3 years, depending on visa subclass"
+    }
+  }
+}
