@@ -6,7 +6,7 @@ The goal is not to sound fancy. The goal is to give learners a reliable fill-in-
 - clear organization
 - enough content
 - controlled grammar
-- a mix of simple, compound, and complex sentences
+- flexibility for new topics
 
 ## Selection principles
 These templates are chosen because they are:
@@ -18,55 +18,24 @@ These templates are chosen because they are:
 
 ## General advice
 - Do not memorize one full essay word for word.
-- Memorize structure and sentence patterns instead.
+- Memorize structure and transitions instead.
 - Use a template only as a frame; fill it with topic-specific key points.
 - Prefer clear, correct sentences over impressive but risky language.
-- In the blanks, train sentence variety on purpose.
+- Do not over-control every blank. Leave room for the learner to choose their own ideas and sentence style.
 
-## Sentence-type guide for blanks
-A good PTE essay can sound more natural if the blanks are filled with a mix of sentence types.
+## Core principle
+The template should give learners a stable structure, not force them into fixed content.
 
-### 1. Simple sentence
-Use for:
-- clear topic statements
-- short facts
-- direct conclusions
+A good template helps the learner remember:
+- how to open
+- how to add two main body ideas
+- how to conclude
 
-Pattern examples:
-- [Topic] is highly important today.
-- This trend affects students and workers.
-- Books still play an important role.
-
-### 2. Compound sentence
-Use for:
-- balanced comparison
-- two parallel ideas
-- advantage plus consequence
-
-Pattern examples:
-- Digital media is convenient, and it saves time for busy people.
-- Books are traditional, but they still support deep learning.
-- Many people prefer online content, so reading habits have changed.
-
-### 3. Complex sentence
-Use for:
-- explanation
-- contrast
-- cause and effect
-- concession
-
-Pattern examples:
-- Although digital media is faster, books still provide focused reading.
-- Because online platforms are accessible, many users consume information more frequently.
-- While some people believe books are outdated, they remain valuable in education.
-
-## Blank-filling rule
-When learners use a template, encourage this pattern:
-- topic sentence blank -> simple or compound sentence
-- explanation blank -> complex sentence
-- example blank -> simple or compound sentence
-- contrast / concession blank -> complex sentence
-- conclusion blank -> simple sentence
+It should not make the essay feel too mechanical or too restricted. The learner should still decide:
+- what side to take
+- what ideas to use
+- what examples to include
+- whether to use simple, compound, or complex sentences in a given spot
 
 ## Template A: simple fill-in-the-blank opinion template
 This style matches common coaching worksheets and is easy to reuse.
@@ -78,119 +47,79 @@ This style matches common coaching worksheets and is easy to reuse.
 
 ### Template
 **Introduction**  
-Although such topics may never lead to a complete agreement, a constructive discussion about **[1 topic]** can still be meaningful. My view is that **[2 clear opinion sentence]**. In this essay, I will explain my position by considering the issue from different perspectives.
+Although such topics may never lead to a complete agreement, a constructive discussion about **[topic]** can still be meaningful. My view is that **[your opinion]**. In this essay, I will explain my position from different perspectives.
 
 **Body paragraph 1**  
-Firstly, **[3 main supporting point]**. This is because **[4 explanation]**. For example, **[5 example or real-life result]**. Therefore, this point strongly supports my view.
+Firstly, **[main point 1]**. This is because **[supporting explanation]**. For example, **[example or result]**. Therefore, this point strongly supports my view.
 
 **Body paragraph 2**  
-Another important point is that **[6 second supporting point]**. This is mainly because **[7 deeper explanation or wider consequence]**. As a result, the argument becomes more convincing.
+Another important point is that **[main point 2]**. This is mainly because **[further explanation]**. As a result, the argument becomes more convincing.
 
 **Conclusion**  
-In conclusion, I believe that **[8 final opinion]**. Although other views also deserve attention, my position is more persuasive for practical and social reasons.
-
-### Recommended sentence types for each blank
-- [1] noun phrase or short topic phrase
-- [2] compound or complex sentence
-- [3] simple sentence
-- [4] complex sentence
-- [5] simple or compound sentence
-- [6] simple sentence
-- [7] complex sentence
-- [8] simple or compound sentence
+In conclusion, I believe that **[final opinion]**. Although other views also deserve attention, my position is more persuasive.
 
 ## Template B: easy academic-style template
 This one is slightly more formal but still manageable.
 
 ### Template
 **Introduction**  
-In today's world, many people debate the issue of **[1 topic]**. While there are valid arguments on both sides, I believe that **[2 opinion sentence]**. This essay will discuss the main reasons behind my view.
+In today's world, many people debate the issue of **[topic]**. While there are valid arguments on both sides, I believe that **[your opinion]**. This essay will discuss the main reasons behind my view.
 
 **Body paragraph 1**  
-To begin with, one major aspect of **[3 topic or issue]** is **[4 first advantage / first concern]**. This means that **[5 explanation sentence]**. For instance, **[6 example sentence]**. Therefore, this factor supports my argument.
+To begin with, one major aspect of **[topic]** is **[main idea 1]**. This means that **[supporting detail]**. For instance, **[example]**. Therefore, this factor supports my argument.
 
 **Body paragraph 2**  
-Secondly, another significant point is **[7 second advantage / second concern]**. This is due to the fact that **[8 explanation sentence]**. Consequently, **[9 broader impact sentence]**.
+Secondly, another significant point is **[main idea 2]**. This is due to the fact that **[supporting detail]**. Consequently, **[broader result]**.
 
 **Conclusion**  
-Overall, I believe that **[10 final position]**. This is because the issue affects individuals and society in several important ways.
-
-### Recommended sentence types for each blank
-- [1] noun phrase
-- [2] complex sentence
-- [3] noun phrase
-- [4] noun phrase or short clause
-- [5] complex sentence
-- [6] simple or compound sentence
-- [7] noun phrase or short clause
-- [8] complex sentence
-- [9] compound sentence
-- [10] simple sentence
+Overall, I believe that **[final position]**. This is because the issue affects individuals and society in several important ways.
 
 ## Template C: easiest recommended default
 If the learner wants one default structure for most topics, use this.
 
 ### Simple 4-part default
 **Introduction**  
-It is often argued that **[1 topic statement]**. I **[2 agree/disagree/partly agree]** with this view because **[3 area one]** and **[4 area two]** are strongly affected.
+It is often argued that **[topic statement]**. I **[agree/disagree/partly agree]** with this view because **[idea area 1]** and **[idea area 2]** are strongly affected.
 
 **Body paragraph 1**  
-The first important point is that **[5 main point]**. Because **[6 reason]**, this issue has become more significant. For example, **[7 example]**.
+The first important point is that **[main point 1]**. Because **[reason]**, this issue has become more significant. For example, **[example]**.
 
 **Body paragraph 2**  
-Another key point is that **[8 second point]**. Although some people believe that **[9 opposite idea]**, I think that **[10 response]**. Therefore, **[11 result]**.
+Another key point is that **[main point 2]**. Although some people believe that **[opposite idea]**, I think that **[response]**. Therefore, **[result]**.
 
 **Conclusion**  
-In conclusion, I believe that **[12 final opinion]**. This topic is important because it has a clear influence on modern life.
-
-### Recommended sentence types for each blank
-- [1] simple sentence
-- [2] short opinion phrase
-- [3] noun phrase
-- [4] noun phrase
-- [5] simple sentence
-- [6] complex sentence
-- [7] simple sentence
-- [8] simple sentence
-- [9] simple sentence
-- [10] complex sentence
-- [11] compound sentence
-- [12] simple sentence
+In conclusion, I believe that **[final opinion]**. This topic is important because it has a clear influence on modern life.
 
 ## Template D: balanced template for discussing both sides
 This works well when the learner wants to mention both positive and negative aspects.
 
 ### Template
 **Introduction**  
-The topic of **[1 topic]** is widely discussed today. On the one hand, **[2 positive general view]**. On the other hand, **[3 negative general view]**. In my opinion, **[4 final position]**.
+The topic of **[topic]** is widely discussed today. On the one hand, **[one side]**. On the other hand, **[the other side]**. In my opinion, **[your final position]**.
 
 **Body paragraph 1**  
-One advantage is that **[5 benefit]**. Because **[6 reason]**, many people support this view. Moreover, **[7 extra benefit or example]**.
+One advantage is that **[benefit]**. Because **[reason]**, many people support this view. Moreover, **[extra point or example]**.
 
 **Body paragraph 2**  
-However, one drawback is that **[8 drawback]**. Although **[9 opposite support]**, this concern should not be ignored because **[10 explanation]**.
+However, one drawback is that **[drawback]**. Although **[counterpoint]**, this concern should not be ignored because **[explanation]**.
 
 **Conclusion**  
-To conclude, both sides have reasonable points, but I believe that **[11 final judgment]**.
+To conclude, both sides have reasonable points, but I believe that **[final judgment]**.
 
-### Recommended sentence types for each blank
-- [2] simple sentence
-- [3] simple sentence
-- [4] compound or complex sentence
-- [5] simple sentence
-- [6] complex sentence
-- [7] compound sentence
-- [8] simple sentence
-- [9] simple sentence
-- [10] complex sentence
-- [11] simple sentence
+## Optional sentence variety reminder
+Learners can strengthen their writing by naturally mixing:
+- simple sentences
+- compound sentences
+- complex sentences
+
+However, this should stay as a flexible reminder, not a rule attached to every blank.
 
 ## How to make the essay long enough
 To safely reach a good word count, expand each body paragraph with:
-- one topic sentence
-- one explanation sentence
-- one example sentence
-- one result or implication sentence
+- one main idea
+- one explanation
+- one example
+- one result or implication
 
 ## Good default paragraph plan
 A reliable target is:
@@ -215,10 +144,10 @@ Use phrases like:
 ## Agent guidance
 When generating or evaluating essay templates, the agent should:
 - prefer fill-in-the-blank structures similar to coaching handouts
-- explicitly label what kind of content goes into each blank
-- encourage sentence variety across blanks
-- keep the wording easy enough to be memorized
+- keep the template easy enough to memorize
+- avoid over-specifying what every blank must contain
+- leave room for the learner to decide ideas and wording
 - avoid overly artificial phrases that learners are unlikely to use naturally
 
 ## Final note
-The best template is not the most advanced one. The best template is the one a learner can use quickly, accurately, and consistently under time pressure.
+The best template is not the most advanced one. The best template is the one a learner can use quickly, accurately, and flexibly under time pressure.
