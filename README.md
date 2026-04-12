@@ -42,6 +42,7 @@ pte-skills/
   - Listening
   - Writing
 - Mapping between PTE question types and the core skill areas they train
+- Audit notes for current official PTE question-type coverage
 
 ### Question-type skills
 Initial high-value targets:
@@ -50,6 +51,8 @@ Initial high-value targets:
 - Describe Image
 - Retell Lecture
 - Write From Dictation
+- Summarize Group Discussion
+- Respond to a Situation
 
 ## Design principles
 
