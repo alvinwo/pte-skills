@@ -4,23 +4,27 @@ This draft maps common PTE question types to the main macro skills they train.
 
 | Question type | Reading | Speaking | Listening | Writing |
 |---|---:|---:|---:|---:|
+| Personal Introduction *(not scored)* |  | ✅ | ✅ |  |
 | Read Aloud | ✅ | ✅ |  |  |
 | Repeat Sentence |  | ✅ | ✅ |  |
 | Describe Image |  | ✅ |  |  |
 | Retell Lecture |  | ✅ | ✅ |  |
 | Answer Short Question |  | ✅ | ✅ |  |
+| Summarize Group Discussion |  | ✅ | ✅ | ✅ |
+| Respond to a Situation | ✅ | ✅ | ✅ | ✅ |
 | Summarize Written Text | ✅ |  |  | ✅ |
-| Essay |  |  |  | ✅ |
-| Summarize Spoken Text |  |  | ✅ | ✅ |
+| Write Essay |  |  |  | ✅ |
+| Fill in the Blanks (Dropdown) | ✅ |  |  |  |
 | Multiple Choice, Multiple Answers | ✅ |  | ✅ |  |
+| Reorder Paragraph | ✅ |  |  |  |
+| Fill in the Blanks (Drag and Drop) | ✅ |  |  | ✅ |
 | Multiple Choice, Single Answer | ✅ |  | ✅ |  |
-| Re-order Paragraphs | ✅ |  |  |  |
-| Reading: Fill in the Blanks | ✅ |  |  |  |
-| Reading & Writing: Fill in the Blanks | ✅ |  |  | ✅ |
+| Summarize Spoken Text |  |  | ✅ | ✅ |
+| Fill in the Blanks (Type In) |  |  | ✅ | ✅ |
 | Highlight Correct Summary |  |  | ✅ | ✅ |
 | Select Missing Word |  |  | ✅ |  |
 | Highlight Incorrect Words |  |  | ✅ | ✅ |
-| Write From Dictation |  |  | ✅ | ✅ |
+| Write from Dictation |  |  | ✅ | ✅ |
 
 ## Notes
 - Some question types measure multiple skills at once.
