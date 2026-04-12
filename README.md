@@ -26,6 +26,9 @@ pte-skills/
 │  ├─ write-essay-strategy.md
 │  ├─ write-essay-templates.md
 │  ├─ all-question-type-tips.md
+│  ├─ current-pte-question-type-audit.md
+│  ├─ current-score-priority-matrix.md
+│  ├─ target-score-planning.md
 │  └─ question-type-mapping.md
 ├─ skills/
 │  └─ pte-question-skill-template.md
@@ -76,6 +79,8 @@ Initial high-value targets:
 Ship a polished draft with:
 - shared study tips for reading, speaking, listening, and writing
 - a cross-question-type preparation guide
+- a current score-priority matrix
+- a target-score planning guide
 - a question-type mapping document
 - one reusable question skill template
 - one example learner session outline
