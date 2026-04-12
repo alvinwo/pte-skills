@@ -16,6 +16,9 @@ A strong PTE essay does not need to be highly original. It needs to be:
 3. Keep grammar simple and correct.
 4. Avoid spelling mistakes.
 5. Generate key points quickly by expanding the topic outward.
+6. Prefer easy, well-structured templates that can be reused across many prompts.
+
+See also: `shared/write-essay-templates.md`
 
 ## Suggested template
 ### Introduction

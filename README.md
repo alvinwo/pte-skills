@@ -24,6 +24,7 @@ pte-skills/
 │  ├─ listening-tips.md
 │  ├─ writing-tips.md
 │  ├─ write-essay-strategy.md
+│  ├─ write-essay-templates.md
 │  └─ question-type-mapping.md
 ├─ skills/
 │  └─ pte-question-skill-template.md
