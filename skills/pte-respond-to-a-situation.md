@@ -24,6 +24,7 @@ Official tip observed:
 Video-derived practical ideas observed:
 - strong performance depends on addressing all parts of the prompt
 - a flexible structure is safer than a canned template
+- overusing repetitive generic templates can make the response sound irrelevant or low-quality
 - prompt keywords help show that the response fits the situation
 - a steady, controlled speaking tone is useful
 
@@ -57,6 +58,11 @@ If needed, add a short greeting or closing, but the three content sentences matt
 
 ## Safe flexible structure
 This task should use **structure**, not a rigid template.
+
+Important:
+- avoid repetitive canned templates across all prompts
+- if the same memorized script is reused everywhere, the response can sound disconnected from the situation
+- adapt your wording to the actual prompt every time
 
 A safe pattern is:
 - **Firstly,** mention the context.
@@ -93,6 +99,7 @@ Short polite opening or closing can be added if helpful, but avoid sounding memo
 - Cover all parts of the prompt.
 - Aim for roughly 25 to 30 seconds of clear speech; very short responses may reduce score.
 - Use prompt words naturally when they help show accurate understanding.
+- Include some of the descriptive language from the prompt when relevant, for example words related to difficulty, workload, extension, delay, or technical issues.
 - Keep your tone relatively steady instead of over-performing dramatically.
 - If you make a small mistake, continue instead of restarting.
 
@@ -109,6 +116,7 @@ Short polite opening or closing can be added if helpful, but avoid sounding memo
 ## Common mistakes
 - ignoring one part of the prompt and only answering the final request
 - using a canned template that does not fit the situation
+- reusing the same memorized wording across many prompts
 - choosing the wrong register
 - sounding too casual in a formal situation
 - leaving out key descriptive words from the prompt
@@ -140,6 +148,7 @@ When coaching this task, the agent should:
 - help the learner build three strong content sentences instead of a canned script
 - check whether all parts of the prompt were addressed
 - encourage natural reuse of prompt keywords when useful
+- warn against repetitive memorized templates that disconnect from the actual scenario
 - penalize mismatch between tone and situation
 - encourage clarity and completeness over fancy language
 
