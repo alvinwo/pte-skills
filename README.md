@@ -35,6 +35,7 @@ pte-skills/
 │  ├─ vocabulary-strategy.md
 │  ├─ low-yield-vs-high-yield-questions.md
 │  ├─ official-mock-test-guidance.md
+│  ├─ external-reference-notes.md
 │  ├─ start-here.md
 │  ├─ v1-shipping-assessment.md
 │  ├─ v1-release-checklist.md
@@ -80,6 +81,7 @@ If you're new to the repo, begin with:
 - Daily practice system and vocabulary strategy
 - High-yield vs low-yield question prioritization
 - Official mock-test guidance for validating speaking and writing readiness
+- External reference notes capturing useful ideas adapted from community PTE guides
 
 ### Question-type skills
 Current high-value skill pages:

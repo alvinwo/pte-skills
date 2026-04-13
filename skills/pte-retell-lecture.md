@@ -95,6 +95,10 @@ A clean summary of the main lecture ideas is better than a detail-heavy broken a
 Do not overinvest here before RS, RA, DI, and WFD are stable.
 Use RL as a support task, not the main engine.
 
+### Extra practical note
+RL should usually be trained for fluent note-to-speech delivery, not for perfect lecture reconstruction.
+Safe template use is fine as long as the learner still includes real content from the lecture.
+
 ### 4个7
 Use RL if Listening or Speaking is weak, but usually after the biggest engine tasks are already in place.
 

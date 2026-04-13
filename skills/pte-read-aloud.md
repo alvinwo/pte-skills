@@ -95,6 +95,13 @@ Minimum daily work:
 Use RA as a daily engine task.
 Do not overanalyze every passage. Build smooth dependable delivery.
 
+### Extra practical note
+A short mouth warm-up before serious RS work can help many learners.
+One effective order is:
+- short easy spoken warm-up
+- RA
+- RS
+
 ### 4个7
 Use RA to stabilize Speaking. Practice regularly, but do not let it replace RS and WFD.
 

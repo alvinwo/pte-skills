@@ -28,6 +28,9 @@ Good DI answers are usually:
 - focused on major features
 - not overloaded with too many tiny details
 
+The learner should prefer 1–2 dependable structures over too many different templates.
+The goal is reliable output, not template collection.
+
 ## Safe answer structure
 1. Opening: say what the image is about
 2. Main features: mention the biggest trend, highest/lowest point, or key comparison

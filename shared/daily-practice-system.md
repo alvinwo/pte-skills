@@ -22,12 +22,26 @@ Every learner plan should contain four layers:
 3. **maintenance tasks** so stronger skills do not collapse
 4. **review loops** so mistakes are actually reduced over time
 
+A useful default preparation order for many learners is:
+- listening foundations first
+- speaking next
+- reading after that
+- writing later
+
+This does not mean ignoring other skills early.
+It means the earliest heavy effort often gives best return in listening and speaking engine tasks, especially WFD and RS.
+
 ## Default daily non-negotiables
 These are the tasks most learners should do almost every day.
 
 ### Speaking engine
 - RA
 - RS
+
+Recommended order inside one session:
+- short warm-up reading or easy speech first
+- RA next
+- RS after the mouth is warm
 
 ### Listening and writing engine
 - WFD
@@ -59,6 +73,10 @@ Builds:
 - spelling accuracy
 - function-word awareness
 - writing accuracy
+
+Practical rule:
+- start WFD early in the preparation cycle
+- keep it in the routine until test day
 
 These are not just question types.
 They are foundational drills that transfer across the exam.

@@ -299,6 +299,7 @@ Focus on:
 - understanding question formats
 - safe templates for DI, SWT, WE, and RTS
 - accuracy before speed in blanks and dictation
+- heavy early effort on listening and speaking engine tasks before later writing polish
 
 ### Phase 2: Score-building phase
 Use when the learner understands the tasks but is not yet consistently hitting target.

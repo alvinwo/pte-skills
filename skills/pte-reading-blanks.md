@@ -79,6 +79,10 @@ The best sequence is usually:
 - cap time on one difficult choice
 - review after a full first pass instead of getting stuck early
 
+## Review rhythm
+Reading blanks and reorder tasks usually improve more with repeated short-cycle review than with occasional large cramming sessions.
+Try to revisit them every few days instead of leaving long gaps between rounds.
+
 ## Scenario-specific advice
 ### Student visa / lower threshold
 Reading blanks are high-value enough to matter, but the learner should still avoid overinvesting in very hard questions if time is tight.
