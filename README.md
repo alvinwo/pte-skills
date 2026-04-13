@@ -1,6 +1,30 @@
 # pte-skills
 
-Open-source agent skills to help people practice and prepare for PTE question types.
+Practical open-source PTE coaching skills for target-based planning, high-yield question prioritization, daily study systems, and improvement on the most important task types.
+
+## Who this is for
+This repo is especially useful for learners who need:
+- student visa English results
+- 4个7
+- 4个8
+- a strategy-first study plan instead of practicing everything equally
+
+## What this repo helps with
+This repo is built to help learners answer:
+- what score target or visa threshold they need
+- which question types matter most for their scenario
+- what can be deprioritized
+- what they should do every day and every week
+- how to practice the highest-value tasks first
+
+## Current v1 direction
+This is a strategy-first coaching pack, not yet:
+- a full question bank product
+- a full automated scoring engine
+- a complete library for every single PTE task
+- a deep mock-result analysis system
+
+The goal of v1.0.0 is to ship a clear, useful first release for real learners.
 
 ## Vision
 
@@ -51,7 +75,8 @@ pte-skills/
 │  ├─ pte-summarize-group-discussion.md
 │  ├─ pte-respond-to-a-situation.md
 │  ├─ pte-write-from-dictation.md
-│  └─ pte-reading-blanks.md
+│  ├─ pte-reading-blanks.md
+│  └─ pte-summarize-written-text.md
 └─ examples/
    ├─ sample-session-outline.md
    └─ target-scenario-plans.md
@@ -64,7 +89,7 @@ If you're new to the repo, begin with:
 3. `shared/current-score-priority-matrix.md`
 4. `shared/daily-practice-system.md`
 
-## Draft scope
+## Scope
 
 ### Foundation layer
 - Shared guidance for the 4 core PTE skill areas:
@@ -84,7 +109,7 @@ If you're new to the repo, begin with:
 - External reference notes capturing useful ideas adapted from community PTE guides
 
 ### Question-type skills
-Current high-value skill pages:
+Current v1 skill pages:
 - Read Aloud
 - Repeat Sentence
 - Describe Image
@@ -93,9 +118,9 @@ Current high-value skill pages:
 - Respond to a Situation
 - Write From Dictation
 - Reading Blanks
+- Summarize Written Text
 
 Next expansion targets:
-- Summarize Written Text
 - Summarize Spoken Text
 - Write Essay refinement by target scenario
 
@@ -116,16 +141,18 @@ Next expansion targets:
 5. **Open and contributor-friendly**  
    Content should stay easy to extend with more prompts, rubrics, and examples.
 
-## Proposed first milestone
-
-Ship a polished draft with:
+## Proposed first release
+Ship v1.0.0 with:
 - shared study tips for reading, speaking, listening, and writing
 - a cross-question-type preparation guide
 - a current score-priority matrix
 - a target-score planning guide
-- a question-type mapping document
-- one reusable question skill template
-- one example learner session outline
+- scenario-based plans for student visa / 4个7 / 4个8
+- a daily practice system
+- vocabulary strategy and high-yield prioritization guidance
+- visa and official-mock reference guidance
+- core skill pages for the main high-value tasks
+- a Start Here page and example learner plans
 
 ## V1 release focus
 Version 1.0.0 should ship as a practical strategy-first coaching pack with:
