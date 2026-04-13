@@ -35,6 +35,9 @@ pte-skills/
 │  ├─ vocabulary-strategy.md
 │  ├─ low-yield-vs-high-yield-questions.md
 │  ├─ official-mock-test-guidance.md
+│  ├─ start-here.md
+│  ├─ v1-shipping-assessment.md
+│  ├─ v1-release-checklist.md
 │  └─ question-type-mapping.md
 ├─ data/
 │  └─ au-home-affairs-english-requirements.json
@@ -49,8 +52,16 @@ pte-skills/
 │  ├─ pte-write-from-dictation.md
 │  └─ pte-reading-blanks.md
 └─ examples/
-   └─ sample-session-outline.md
+   ├─ sample-session-outline.md
+   └─ target-scenario-plans.md
 ```
+
+## Start here
+If you're new to the repo, begin with:
+1. `shared/start-here.md`
+2. `shared/scenario-based-study-plans.md`
+3. `shared/current-score-priority-matrix.md`
+4. `shared/daily-practice-system.md`
 
 ## Draft scope
 
@@ -113,6 +124,19 @@ Ship a polished draft with:
 - a question-type mapping document
 - one reusable question skill template
 - one example learner session outline
+
+## V1 release focus
+Version 1.0.0 should ship as a practical strategy-first coaching pack with:
+- target-scenario routing
+- score-priority guidance
+- daily practice systems
+- high-yield question prioritization
+- core skill pages for the most important tasks
+
+See also:
+- `shared/v1-shipping-assessment.md`
+- `shared/v1-release-checklist.md`
+- `examples/target-scenario-plans.md`
 
 ## Future roadmap
 
