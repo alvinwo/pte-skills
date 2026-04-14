@@ -19,13 +19,13 @@ This project helps learners decide:
 ```text
 pte-skills/
 ├─ README.md
+├─ SKILL_FORMAT.md
 ├─ shared/
 │  ├─ start-here.md
 │  ├─ priority-map.md
 │  ├─ study-plan.md
 │  ├─ four-skills-guide.md
-│  ├─ visa-requirements.md
-│  └─ universal-skill-spec.md
+│  └─ visa-requirements.md
 ├─ skills/
 │  ├─ pte-read-aloud.md
 │  ├─ pte-repeat-sentence.md
@@ -52,7 +52,7 @@ pte-skills/
 This repo now uses a small, universal Markdown skill format.
 
 See:
-- `shared/universal-skill-spec.md`
+- `SKILL_FORMAT.md`
 
 The format is designed to work well as plain context for:
 - Claude Code
@@ -95,7 +95,7 @@ Good contributions are:
 - better examples
 - stronger practice routines
 - concise updates to the existing strategy
-- skill pages that follow `shared/universal-skill-spec.md`
+- skill pages that follow `SKILL_FORMAT.md`
 
 ## License
 TBD
