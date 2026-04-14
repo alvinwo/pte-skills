@@ -47,6 +47,17 @@ Recommended order inside one session:
 - WFD
 - RS
 
+### Passive listening layer
+Even outside active study blocks, learners can still improve familiarity and recall by listening to:
+- RS audio
+- WFD audio
+
+Good low-friction moments include:
+- walking
+- commuting
+- doing chores
+- before sleep
+
 ### Language foundation
 - vocabulary review
 - spelling review for high-frequency words
@@ -90,10 +101,13 @@ For busy learners or lower-threshold targets.
 
 ### Suggested structure
 1. 10 min vocabulary + spelling review
-2. 10 min RA
-3. 10 min RS
-4. 10 min WFD
+2. 10–30 min RA depending on level and available time
+3. 10 min RS practice
+4. 10 min WFD practice
 5. 10–20 min weak-skill block
+
+Passive add-on:
+- listen to RS and WFD audio when walking, commuting, doing chores, or before sleeping
 
 ### Weak-skill block examples
 - Reading weak -> FIB Reading or RO
@@ -134,11 +148,12 @@ For strong 4个7 pushes, 4个8 targets, or urgent deadlines.
 Pass efficiently, not perfectly.
 
 ### Daily priorities
-- RA every day
+- RA every day, usually 10 to 30 minutes depending on the learner's speaking base
 - RS every day
 - WFD every day
 - one short weak-area block
 - vocabulary every day
+- passive listening to RS and WFD audio whenever possible, for example while walking, commuting, or before sleeping
 
 ### Weekly emphasis
 - 4–5 days of core engine practice

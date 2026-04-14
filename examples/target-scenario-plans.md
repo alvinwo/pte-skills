@@ -23,10 +23,11 @@ This file shows what the repo's planning guidance should look like in practice.
 
 ### Daily plan
 - 10 min vocabulary + spelling
-- 10 min RA
-- 10 min RS
-- 10 min WFD
+- 10–30 min RA
+- 10 min RS practice
+- 10 min WFD practice
 - 20 min DI or weak-skill block
+- extra passive listening to RS and WFD audio whenever possible, such as walking time, commuting, or before sleep
 
 ### Weekly focus
 - 4 to 5 core engine days
