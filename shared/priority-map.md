@@ -64,13 +64,13 @@ Focus on efficient passing:
 - DI
 - basic reading blanks
 
-### Proficient English ("4个7")
+### 7炸
 Protect every section floor:
 - keep RS and WFD daily
 - keep RA and DI stable
 - use the weak section to decide where extra time goes
 
-### Superior English ("4个8")
+### 8炸
 Keep the same engine tasks, but clean up small losses:
 - spelling
 - dropped function words

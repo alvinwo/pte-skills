@@ -11,8 +11,8 @@ This project helps learners decide:
 
 ## Who this is for
 - student visa learners
-- Proficient English ("4个7") learners
-- Superior English ("4个8") learners
+- 7炸 learners
+- 8炸 learners
 - anyone who wants a simple, practical study system
 
 ## Repo structure
