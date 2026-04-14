@@ -42,7 +42,7 @@ Prefer this ranking logic:
 
 ## Step 4: Build the study plan
 A plan should include:
-- the learner scenario (generic prep, student visa, 4个7, 4个8)
+- the learner scenario (generic prep, student visa, all four communicative skills at 65+, all four communicative skills at 79+)
 - 1–2 primary high-yield question types
 - 1 support question type
 - 1 maintenance question type

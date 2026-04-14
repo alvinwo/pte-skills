@@ -111,12 +111,12 @@ Passive add-on:
 
 ### Weak-skill block examples
 - Reading weak -> FIB Reading or RO
-- Listening weak -> HIW or FIB-L
+- Listening weak -> WFD first, then short HIW or FIB-L support work if listening detail is still weak
 - Speaking weak -> DI
 - Writing weak -> SWT / WE sentence control
 
 ## Option B: 90 minutes per day
-For moderate targets or 4个7 learners.
+For moderate targets or all four communicative skills at 65+ learners.
 
 ### Suggested structure
 1. 15 min vocabulary review
@@ -127,7 +127,7 @@ For moderate targets or 4个7 learners.
 6. 15 min weak-skill block B or review log
 
 ## Option C: 2–3 hours per day
-For strong 4个7 pushes, 4个8 targets, or urgent deadlines.
+For strong all four communicative skills at 65+ pushes, all four communicative skills at 79+ targets, or urgent deadlines.
 
 ### Suggested structure
 1. 20 min vocabulary + spelling + collocations
@@ -165,7 +165,7 @@ Pass efficiently, not perfectly.
 ### Warning
 Do not waste too much time polishing difficult low-yield tasks if the score target is modest.
 
-## 4个7 learner
+## all four communicative skills at 65+ learner
 ### Goal
 Protect every section floor.
 
@@ -188,7 +188,7 @@ Protect every section floor.
 Do not focus only on the overall feeling of improvement.
 Track whether each section is actually stable enough to hit target.
 
-## 4个8 learner
+## all four communicative skills at 79+ learner
 ### Goal
 Raise ceiling and reduce leaks.
 
@@ -252,13 +252,13 @@ Typical tasks:
 - 1 mixed simulation day
 - 1 lighter day or rest / review day
 
-### 4个7 learner
+### all four communicative skills at 65+ learner
 - 2 engine days
 - 3 weakness days
 - 1 mixed simulation day
 - 1 review and repair day
 
-### 4个8 learner
+### all four communicative skills at 79+ learner
 - 2 engine days
 - 2 weakness days
 - 2 mixed simulation days

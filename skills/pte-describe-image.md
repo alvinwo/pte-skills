@@ -106,10 +106,10 @@ Focus on:
 ### Student visa / lower threshold
 DI is a high-value speaking task. Use a simple, reliable template and do not chase fancy vocabulary.
 
-### 4个7
+### all four communicative skills at 65+
 DI is important because it can lift Speaking efficiently. Focus on stability and safe structure.
 
-### 4个8
+### all four communicative skills at 79+
 DI still matters a lot, but the learner must improve content selection, fluency, and polish. Random filler and weak summaries should be reduced.
 
 ## What good feedback should sound like

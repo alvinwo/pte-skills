@@ -89,10 +89,10 @@ Minimum daily work:
 ### Student visa / lower threshold
 RS should be one of the main daily engine tasks. It gives strong return and transfers to both listening and speaking.
 
-### 4个7
+### all four communicative skills at 65+
 RS is non-negotiable. It should be in the daily plan almost every day because it helps protect two section floors.
 
-### 4个8
+### all four communicative skills at 79+
 RS is still a major engine task, but the learner must clean up dropped words, unclear pronunciation, and unstable pacing.
 
 ## What good feedback should sound like

@@ -99,10 +99,10 @@ Note:
 ### Student visa / lower threshold
 SGD matters, but many learners should first stabilize RS, RA, DI, and WFD. Use SGD as a support task rather than the main daily engine.
 
-### 4个7
+### all four communicative skills at 65+
 If Speaking or Listening is the weak section, SGD becomes more important because it can protect both skills. Practice it regularly, but not at the expense of RS and WFD.
 
-### 4个8
+### all four communicative skills at 79+
 SGD deserves serious practice. At this level, cleaner notes, stronger topic control, and more stable fluency can make a visible difference.
 
 ## Coaching advice for learners

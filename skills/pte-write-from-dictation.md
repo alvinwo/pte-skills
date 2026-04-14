@@ -92,10 +92,10 @@ Minimum daily work:
 ### Student visa / lower threshold
 WFD is one of the best uses of study time and should stay in the daily core routine.
 
-### 4个7
+### all four communicative skills at 65+
 WFD is a major section-protection task because it supports both Listening and Writing.
 
-### 4个8
+### all four communicative skills at 79+
 WFD is still essential, but the learner must reduce tiny losses. Missing articles, plurals, or spelling details becomes expensive at this level.
 
 ## What good feedback should sound like

@@ -42,12 +42,12 @@ Buy at least one official mock when approaching the exam window if the learner:
 - needs confidence before booking or rebooking
 - is unsure whether speaking and writing are good enough
 
-### 4个7 learner
+### all four communicative skills at 65+ learner
 Official mocks are strongly recommended.
 This learner needs section-floor protection, so realistic score validation matters a lot.
 A learner can feel fine overall and still miss one required skill.
 
-### 4个8 learner
+### all four communicative skills at 79+ learner
 Official mocks are even more important.
 At this level, small leaks in speaking clarity, fluency, pronunciation, writing control, or template quality can be expensive.
 Official scoring-style feedback is useful for deciding whether the learner is truly ready.
@@ -109,7 +109,7 @@ After an official mock, the learner should review:
 - whether a question type feels good in practice but still underperforms in realistic testing
 
 ## Coaching rule
-When a learner has a real score deadline, especially for 4个7 or 4个8, the skill should often recommend official mock tests as the final validation layer for Speaking and Writing readiness.
+When a learner has a real score deadline, especially for all four communicative skills at 65+ or all four communicative skills at 79+, the skill should often recommend official mock tests as the final validation layer for Speaking and Writing readiness.
 
 ## Future improvements
 This file can later be paired with:

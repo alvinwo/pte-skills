@@ -13,8 +13,8 @@ Read Aloud is one of the best daily speaking drills because it improves:
 
 It is especially useful for:
 - student visa learners who need efficient speaking gains
-- 4个7 learners who need stable Speaking performance
-- 4个8 learners who need cleaner fluency and pronunciation
+- all four communicative skills at 65+ learners who need stable Speaking performance
+- all four communicative skills at 79+ learners who need cleaner fluency and pronunciation
 
 ## Main scoring focus
 - content coverage
@@ -102,10 +102,10 @@ One effective order is:
 - RA
 - RS
 
-### 4个7
+### all four communicative skills at 65+
 Use RA to stabilize Speaking. Practice regularly, but do not let it replace RS and WFD.
 
-### 4个8
+### all four communicative skills at 79+
 Use RA for fluency polish, pronunciation cleanup, and consistency under pressure.
 Careless pauses and unclear endings should be reviewed aggressively.
 

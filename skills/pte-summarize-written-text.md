@@ -111,10 +111,10 @@ The learner should choose simple connectors they can control reliably.
 ### Student visa / lower threshold
 SWT is useful, but it should not replace RA, RS, WFD, and other bigger engine tasks. Use it as a writing support task.
 
-### 4个7
+### all four communicative skills at 65+
 If Writing or Reading is weak, SWT can be a good efficient support task because it trains both summarization and sentence control.
 
-### 4个8
+### all four communicative skills at 79+
 SWT becomes more valuable because small grammar, punctuation, and relevance problems become expensive. Focus on clean one-sentence control.
 
 ## What good feedback should sound like

@@ -16,7 +16,7 @@ Right now the repo already gives real value because it has:
 - current PTE format awareness
 - a practical score-priority matrix
 - visa-oriented English requirement guidance
-- scenario-based planning for student visa, 4个7, and 4个8
+- scenario-based planning for student visa, all four communicative skills at 65+, and all four communicative skills at 79+
 - daily practice guidance
 - vocabulary strategy
 - high-yield vs low-yield prioritization

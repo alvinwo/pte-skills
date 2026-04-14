@@ -5,8 +5,8 @@ Practical open-source PTE coaching skills for target-based planning, high-yield 
 ## Who this is for
 This repo is especially useful for learners who need:
 - student visa English results
-- 4个7
-- 4个8
+- all four communicative skills at 65+
+- all four communicative skills at 79+
 - a strategy-first study plan instead of practicing everything equally
 
 ## What this repo helps with
@@ -101,8 +101,8 @@ If you're new to the repo, begin with:
 - Audit notes for current official PTE question-type coverage
 - Scenario-based planning for:
   - student visa / lower-threshold learners
-  - 4个7 learners
-  - 4个8 learners
+  - all four communicative skills at 65+ learners
+  - all four communicative skills at 79+ learners
 - Daily practice system and vocabulary strategy
 - High-yield vs low-yield question prioritization
 - Official mock-test guidance for validating speaking and writing readiness
@@ -147,7 +147,7 @@ Ship v1.0.0 with:
 - a cross-question-type preparation guide
 - a current score-priority matrix
 - a target-score planning guide
-- scenario-based plans for student visa / 4个7 / 4个8
+- scenario-based plans for student visa / all four communicative skills at 65+ / all four communicative skills at 79+
 - a daily practice system
 - vocabulary strategy and high-yield prioritization guidance
 - visa and official-mock reference guidance

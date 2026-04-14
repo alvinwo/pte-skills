@@ -99,10 +99,10 @@ Use RL as a support task, not the main engine.
 RL should usually be trained for fluent note-to-speech delivery, not for perfect lecture reconstruction.
 Safe template use is fine as long as the learner still includes real content from the lecture.
 
-### 4个7
+### all four communicative skills at 65+
 Use RL if Listening or Speaking is weak, but usually after the biggest engine tasks are already in place.
 
-### 4个8
+### all four communicative skills at 79+
 RL becomes more important because integrated speaking and listening stability matter more. Focus on note quality, fluency, and less content loss.
 
 ## What good feedback should sound like

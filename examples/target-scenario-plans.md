@@ -39,9 +39,9 @@ Do not try to master every task equally. Build reliable score through the highes
 
 ---
 
-## Example 2: 4个7 learner with weak listening
+## Example 2: all four communicative skills at 65+ learner with weak listening
 ### Profile
-- goal: 4个7
+- goal: all four communicative skills at 65+
 - time before exam: 8 weeks
 - study time: 90 minutes per day
 - weak area: listening
@@ -67,9 +67,9 @@ Do not try to master every task equally. Build reliable score through the highes
 - 15 min vocabulary
 - 15 min RS
 - 15 min WFD
-- 15 min HIW / FIB-L
+- 10 min HIW or FIB-L only if listening detail is the weak area
 - 15 min RA or DI maintenance
-- 15 min review log or timed mixed set
+- 20 min review log, timed mixed set, or a second WFD/RS block
 
 ### Weekly focus
 - 2 engine days
@@ -83,9 +83,9 @@ Protect the section floor. The biggest risk is not overall ability — it is one
 
 ---
 
-## Example 3: 4个8 learner with strong speaking but weak writing
+## Example 3: all four communicative skills at 79+ learner with strong speaking but weak writing
 ### Profile
-- goal: 4个8
+- goal: all four communicative skills at 79+
 - time before exam: 10 weeks
 - study time: 2 hours per day
 - strengths: speaking confidence
