@@ -9,7 +9,7 @@ Ask:
 - writing target
 - reading target
 - listening target
-- whether this is for a student visa, Proficient English ("4个7"), or Superior English ("4个8")
+- whether this is for a student visa, 7炸, or 8炸
 
 ## Step 2: identify the weak area
 Ask the learner:

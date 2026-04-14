@@ -11,14 +11,15 @@ This project helps learners decide:
 
 ## Who this is for
 - student visa learners
-- Proficient English ("4个7") learners
-- Superior English ("4个8") learners
+- 7炸 learners
+- 8炸 learners
 - anyone who wants a simple, practical study system
 
 ## Repo structure
 ```text
 pte-skills/
 ├─ README.md
+├─ SKILL_FORMAT.md
 ├─ shared/
 │  ├─ start-here.md
 │  ├─ priority-map.md
@@ -46,6 +47,22 @@ pte-skills/
 2. `shared/priority-map.md`
 3. `shared/study-plan.md`
 4. the skill pages you need most
+
+## Skill format
+This repo now uses a small, universal Markdown skill format.
+
+See:
+- `SKILL_FORMAT.md`
+
+The format is designed to work well as plain context for:
+- Claude Code
+- Codex
+- Gemini CLI
+- OpenCode / OpenClaw-style agents
+- other Markdown-friendly agent tools
+
+It is not a vendor-native plugin format.
+It is a portable Markdown instruction format.
 
 ## Core ideas
 1. Ask the learner for the target first.
@@ -78,6 +95,7 @@ Good contributions are:
 - better examples
 - stronger practice routines
 - concise updates to the existing strategy
+- skill pages that follow `SKILL_FORMAT.md`
 
 ## License
 TBD

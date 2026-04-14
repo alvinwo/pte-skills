@@ -1,9 +1,14 @@
 # PTE Retell Lecture
 
-## Why it matters
-RL supports both Listening and Speaking, but it is usually less efficient than RS or DI for many learners.
+## Purpose
+- retell the main points of a lecture in clear spoken English
+- support both Listening and Speaking
 
-## What good performance looks like
+## When to use
+- when Listening and Speaking both need support
+- when RL is a repeated weak point
+
+## Success looks like
 - clear start
 - enough relevant content
 - simple linking language
@@ -25,6 +30,7 @@ RL supports both Listening and Speaking, but it is usually less efficient than R
 ## Daily target
 - support-task volume, not the whole study plan
 
-## When to prioritize it
-- when Listening and Speaking both need support
-- when RL is clearly a repeated weak point
+## Related files
+- `shared/four-skills-guide.md`
+- `shared/priority-map.md`
+- `shared/study-plan.md`

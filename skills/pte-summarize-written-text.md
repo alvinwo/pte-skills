@@ -1,9 +1,14 @@
 # PTE Summarize Written Text
 
-## Why it matters
-SWT is a useful Reading and Writing task that rewards control more than fancy style.
+## Purpose
+- write one controlled sentence that captures the main ideas of a text
+- support both Reading and Writing with a format-heavy task
 
-## What good performance looks like
+## When to use
+- when Reading is weak
+- when Writing accuracy needs support
+
+## Success looks like
 - one clear sentence
 - main idea coverage
 - good word-count control
@@ -13,7 +18,7 @@ SWT is a useful Reading and Writing task that rewards control more than fancy st
 - copying too much detail
 - missing the main idea
 - bad word-count control
-- grammar mistakes in a sentence that is too ambitious
+- grammar mistakes in an overambitious sentence
 
 ## Practice method
 1. identify the main idea of each paragraph
@@ -24,6 +29,7 @@ SWT is a useful Reading and Writing task that rewards control more than fancy st
 ## Daily target
 - support-task volume when Reading or Writing needs help
 
-## When to prioritize it
-- when Reading is weak
-- when Writing accuracy needs support
+## Related files
+- `shared/four-skills-guide.md`
+- `shared/priority-map.md`
+- `shared/study-plan.md`

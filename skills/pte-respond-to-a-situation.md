@@ -1,9 +1,14 @@
 # PTE Respond to a Situation
 
-## Why it matters
-RTS matters, but it should usually be learned as a safe structure task rather than a place for fancy language.
+## Purpose
+- respond clearly and appropriately to a practical situation
+- use simple, controlled spoken English instead of a rigid script
 
-## What good performance looks like
+## When to use
+- after the bigger engine tasks are stable
+- when the learner specifically struggles with this format
+
+## Success looks like
 - direct response to the situation
 - clear purpose
 - simple polite language
@@ -25,6 +30,7 @@ RTS matters, but it should usually be learned as a safe structure task rather th
 ## Daily target
 - light support practice
 
-## When to prioritize it
-- after the bigger engine tasks are stable
-- when the learner specifically struggles with this format
+## Related files
+- `shared/four-skills-guide.md`
+- `shared/priority-map.md`
+- `shared/study-plan.md`

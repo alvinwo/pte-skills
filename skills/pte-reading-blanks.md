@@ -1,10 +1,15 @@
 # PTE Reading Blanks
 
-## Why it matters
-Reading blanks are one of the most practical Reading priorities.
+## Purpose
+- fill reading blanks using grammar, meaning, and collocation
+- prioritize one of the most practical Reading tasks
 
-## What good performance looks like
-- strong grammar judgement
+## When to use
+- when Reading is weak
+- before spending large amounts of time on reading MCQ
+
+## Success looks like
+- strong grammar judgment
 - strong collocation awareness
 - good meaning control in context
 
@@ -24,6 +29,7 @@ Reading blanks are one of the most practical Reading priorities.
 ## Daily target
 - regular reading block when Reading is weak
 
-## When to prioritize it
-- when Reading is weak
-- for most learners before reading MCQ
+## Related files
+- `shared/four-skills-guide.md`
+- `shared/priority-map.md`
+- `shared/study-plan.md`

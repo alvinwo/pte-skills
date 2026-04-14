@@ -1,9 +1,15 @@
 # PTE Write From Dictation
 
-## Why it matters
-WFD is one of the highest-value tasks in the test. It supports Listening and Writing.
+## Purpose
+- type a sentence accurately after hearing it once
+- train one of the highest-value Listening and Writing tasks
 
-## What good performance looks like
+## When to use
+- almost always
+- especially when Listening is weak
+- especially when Writing is weak
+
+## Success looks like
 - many words preserved correctly
 - correct spelling
 - correct small grammar signals
@@ -23,14 +29,14 @@ WFD is one of the highest-value tasks in the test. It supports Listening and Wri
 5. save failed items for review
 
 ## Special notes
-### Prediction lists
-If the learner uses prediction lists, they should become very familiar with the current WFD pool.
-That helps, but it should not replace spelling, listening, and reconstruction training.
+- if the learner uses prediction lists, become very familiar with the current WFD pool
+- use that familiarity to support practice, not replace spelling, listening, and reconstruction training
 
 ## Daily target
 - 10 to 20 items
 - almost every day
 
-## When to prioritize it
-- almost always
-- especially when Listening or Writing is weak
+## Related files
+- `shared/four-skills-guide.md`
+- `shared/priority-map.md`
+- `shared/study-plan.md`

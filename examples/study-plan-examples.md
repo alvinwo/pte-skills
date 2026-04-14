@@ -8,12 +8,12 @@ Always ask the learner for the weak area first.
 - daily idea: vocabulary + RA + RS + WFD + one weak-area block
 - deprioritize: reading MCQ and listening MCQ unless clearly weak
 
-## Example 2: Proficient English ("4个7") learner with weak listening
+## Example 2: 7炸 learner with weak listening
 - focus: WFD, RS, FIB-L, HIW, then SGD / RL support work
 - maintain strongly: RA and DI
 - rule: protect every section floor
 
-## Example 3: Superior English ("4个8") learner with weak writing
+## Example 3: 8炸 learner with weak writing
 - focus: WFD, SWT, WE, spelling cleanup, reading/listening blanks
 - maintain strongly: RA, DI, RS
 - rule: remove small repeated losses

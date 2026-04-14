@@ -1,9 +1,14 @@
 # PTE Describe Image
 
-## Why it matters
-DI is a major Speaking task and often one of the fastest ways to stabilize speaking output.
+## Purpose
+- describe the key features of an image in a clear, repeatable speaking structure
+- stabilize Speaking output with a safe format
 
-## What good performance looks like
+## When to use
+- when Speaking is weak
+- when the learner needs a safe, repeatable speaking structure
+
+## Success looks like
 - clear opening
 - 2 to 3 relevant points
 - smooth structure
@@ -26,6 +31,7 @@ DI is a major Speaking task and often one of the fastest ways to stabilize speak
 - short regular practice
 - good weak-area block for Speaking
 
-## When to prioritize it
-- when Speaking is weak
-- when the learner needs a safe, repeatable speaking structure
+## Related files
+- `shared/four-skills-guide.md`
+- `shared/priority-map.md`
+- `shared/study-plan.md`

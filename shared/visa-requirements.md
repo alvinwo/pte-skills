@@ -8,10 +8,10 @@ The saved JSON file is at:
 - `data/au-home-affairs-english-requirements.json`
 
 ## Common learner language
-- Proficient English = "4个7"
-- Superior English = "4个8"
+- 7炸 = Proficient English
+- 8炸 = Superior English
 
-These are common immigration shorthand labels, not just generic study nicknames.
+These are common immigration-style learner labels in this repo.
 
 ## Current saved reference
 - Functional English: overall PTE at least 24

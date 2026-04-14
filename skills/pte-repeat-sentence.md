@@ -1,9 +1,15 @@
 # PTE Repeat Sentence
 
-## Why it matters
-RS is one of the biggest engine tasks because it supports both Speaking and Listening.
+## Purpose
+- repeat a sentence accurately and smoothly after hearing it once
+- build one of the biggest Speaking and Listening engine tasks
 
-## What good performance looks like
+## When to use
+- almost always
+- especially when Speaking is weak
+- especially when Listening is weak
+
+## Success looks like
 - smooth delivery
 - strong chunk recall
 - enough content preserved
@@ -23,14 +29,14 @@ RS is one of the biggest engine tasks because it supports both Speaking and List
 5. repeat failed items again later
 
 ## Special notes
-### Prediction lists
-If the learner uses prediction lists, they should become very familiar with the current RS pool.
-That helps, but it should not replace listening, chunking, and fluency practice.
+- if the learner uses prediction lists, become very familiar with the current RS pool
+- use that familiarity to support practice, not replace listening, chunking, and fluency training
 
 ## Daily target
 - 10 to 20 items
 - almost every day
 
-## When to prioritize it
-- almost always
-- especially when Speaking or Listening is weak
+## Related files
+- `shared/four-skills-guide.md`
+- `shared/priority-map.md`
+- `shared/study-plan.md`
