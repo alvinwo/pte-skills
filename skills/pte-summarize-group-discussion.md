@@ -1,9 +1,15 @@
 # PTE Summarize Group Discussion
 
-## Why it matters
-SGD now matters enough to be taken seriously, especially for learners protecting Speaking and Listening.
+## Purpose
+- summarize the main topic and viewpoints from a discussion
+- support both Speaking and Listening in the current format
 
-## What good performance looks like
+## When to use
+- when Speaking is weak
+- when Listening is weak
+- after RS, WFD, RA, and DI are stable enough
+
+## Success looks like
 - clear summary of the discussion topic
 - key viewpoints captured
 - organized, simple language
@@ -24,6 +30,7 @@ SGD now matters enough to be taken seriously, especially for learners protecting
 ## Daily target
 - regular support practice when needed
 
-## When to prioritize it
-- when Speaking or Listening is weak
-- after RS, WFD, RA, and DI are stable enough
+## Related files
+- `shared/four-skills-guide.md`
+- `shared/priority-map.md`
+- `shared/study-plan.md`

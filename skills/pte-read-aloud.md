@@ -1,17 +1,23 @@
 # PTE Read Aloud
 
-## Why it matters
-RA is a core Speaking task. It helps pronunciation, fluency, and microphone control.
+## Purpose
+- read a short text aloud clearly and smoothly
+- improve pronunciation, fluency, and microphone control
 
-## What good performance looks like
+## When to use
+- when Speaking is weak
+- when pronunciation or fluency is unstable
+- when the learner lacks speaking confidence
+
+## Success looks like
 - clear pace
 - clear word endings
 - steady rhythm
-- no major collapsing after punctuation
+- no major collapse after punctuation
 
 ## Common mistakes
 - rushing
-- sounding flat and unclear
+- sounding flat or unclear
 - swallowing endings
 - pausing too long at the start
 
@@ -26,7 +32,7 @@ RA is a core Speaking task. It helps pronunciation, fluency, and microphone cont
 - usually 10 to 30 minutes
 - do it before serious RS work if possible
 
-## When to prioritize it
-- when Speaking is weak
-- when pronunciation and fluency are unstable
-- when the learner lacks speaking confidence
+## Related files
+- `shared/four-skills-guide.md`
+- `shared/priority-map.md`
+- `shared/study-plan.md`
