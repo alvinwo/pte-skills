@@ -1,129 +1,29 @@
 # PTE Summarize Written Text
 
-## What this task is
-The learner reads a passage and writes a one-sentence summary of the main idea.
+## Why it matters
+SWT is a useful Reading and Writing task that rewards control more than fancy style.
 
-## Why this task matters
-Summarize Written Text supports:
-- Reading
-- Writing
-
-It is a useful writing-oriented anchor for learners because it trains:
-- identifying main ideas quickly
-- compressing information
-- sentence control
-- grammar and punctuation discipline
-- linking ideas clearly
-
-For many learners, this is more efficient than trying to improve writing only through essay practice.
-
-## Main scoring focus
-- content
-- form
-- grammar
-- vocabulary
-
-## Core strategy
-The learner does not need to rewrite every detail.
-They need to:
-- understand the passage topic
-- select the most important points
-- connect them into one controlled sentence
-- keep grammar and punctuation safe
-
-The best SWT answers are:
-- complete enough to capture the main idea
-- concise enough to stay controlled
-- grammatically stable
-- built from the passage rather than invented opinion
-
-## Safe method
-1. Read the passage for the main topic first.
-2. Identify the central claim or purpose.
-3. Find 2–4 supporting points that truly matter.
-4. Combine them into one sentence using safe connectors.
-5. Check grammar, punctuation, and spelling before submitting.
-
-## What to prioritize
-- the central idea of the passage
-- major supporting points
-- logical connection between ideas
-- one grammatically controlled sentence
-
-## What not to do
-- copy random details without structure
-- add your own opinion
-- force fancy vocabulary that creates grammar mistakes
-- build an overlong sentence that collapses
-
-## Useful connectors
-Safe connectors include:
-- and
-- while
-- although
-- because
-- which
-- that
-- therefore
-- whereas
-
-The learner should choose simple connectors they can control reliably.
+## What good performance looks like
+- one clear sentence
+- main idea coverage
+- good word-count control
+- clean punctuation and grammar
 
 ## Common mistakes
-- choosing details instead of the main idea
-- writing more than one sentence
-- producing a sentence that is too long and ungrammatical
-- using connectors incorrectly
-- copying chunks that do not combine logically
-- forgetting punctuation or spelling control
+- copying too much detail
+- missing the main idea
+- bad word-count control
+- grammar mistakes in a sentence that is too ambitious
 
-## Correction rules
-### If content is weak
-- identify the topic sentence first
-- ask what the whole passage is mainly trying to say
-- reduce the number of details included
+## Practice method
+1. identify the main idea of each paragraph
+2. combine the major points into one controlled sentence
+3. keep connectors simple
+4. check capitalization, commas, and the final period
 
-### If grammar is weak
-- shorten the structure
-- use safer connectors
-- avoid unnecessary clause stacking
+## Daily target
+- support-task volume when Reading or Writing needs help
 
-### If vocabulary is weak
-- prefer accurate borrowed language from the text
-- do not chase advanced wording unless it is controlled
-
-## Practice modes
-### Beginner mode
-- short passages
-- one main idea + two support points
-- strong emphasis on sentence control
-
-### Intermediate mode
-- mixed passage types
-- timed summarization
-- explicit review of grammar and connector use
-
-### Advanced mode
-- exam-like timing
-- stronger pressure on relevance, concision, and grammatical stability
-
-## Scenario-specific advice
-### Student visa / lower threshold
-SWT is useful, but it should not replace RA, RS, WFD, and other bigger engine tasks. Use it as a writing support task.
-
-### Proficient English ("4个7")
-If Writing or Reading is weak, SWT can be a good efficient support task because it trains both summarization and sentence control.
-
-### Superior English ("4个8")
-SWT becomes more valuable because small grammar, punctuation, and relevance problems become expensive. Focus on clean one-sentence control.
-
-## What good feedback should sound like
-- your summary captured the topic, but included too many secondary details
-- the main idea was correct, but the sentence structure became too long and unstable
-- your grammar was mostly safe, but the connector did not logically link the two ideas
-
-## What the agent should prescribe next
-After reviewing SWT, the agent should tell the learner:
-1. whether the biggest issue is content selection, sentence control, or grammar
-2. whether the learner should simplify the sentence structure
-3. how often SWT should appear in the weekly writing routine
+## When to prioritize it
+- when Reading is weak
+- when Writing accuracy needs support

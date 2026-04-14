@@ -1,113 +1,35 @@
 # PTE Repeat Sentence
 
-## What this task is
-The learner hears a sentence once and must repeat it as accurately and smoothly as possible.
+## Why it matters
+RS is one of the biggest engine tasks because it supports both Speaking and Listening.
 
-## Why this task matters
-Repeat Sentence is one of the highest-value tasks in PTE because it supports both:
-- Speaking
-- Listening
-
-It also improves:
-- memory span
-- chunking
-- listening accuracy
-- speaking under pressure
-
-For many learners, this is one of the best daily score-building tasks.
-
-## Main scoring focus
-- content retention
-- pronunciation
-- oral fluency
-
-## Core strategy
-The goal is not perfect memorization every time.
-The goal is to reproduce as much of the sentence as possible with stable fluency.
-
-A smooth almost-complete answer is often better than a panicked broken answer.
-
-## Step-by-step method
-1. Listen for meaning groups, not individual words only.
-2. Store the sentence in chunks.
-3. Start speaking immediately and steadily.
-4. Keep rhythm and confidence even if one word is missed.
-5. Do not stop mid-answer to repair too much.
-
-## What to listen for
-- sentence structure
-- content words
-- function words that affect grammar
-- tense and plurality
-- beginning and ending chunks
+## What good performance looks like
+- smooth delivery
+- strong chunk recall
+- enough content preserved
+- clear pronunciation
 
 ## Common mistakes
 - trying to remember every word separately
 - pausing too long before starting
 - restarting after one missed word
-- dropping function words too often
-- mumbling because of low confidence
-- speaking too fast and collapsing in the middle
+- losing the ending chunk
 
-## Correction rules
-### If content retention is weak
-- train chunk memory
-- repeat short phrases before longer ones
-- identify sentence skeletons: subject, verb, object, modifiers
+## Practice method
+1. listen for chunks, not isolated words
+2. start quickly
+3. keep going even if one word is missed
+4. review dropped function words and endings
+5. repeat failed items again later
 
-### If fluency is weak
-- start faster
-- keep speaking once you begin
-- do not overrepair missed words
+## Practical note on prediction lists
+If the learner uses prediction lists, they should become very familiar with the current RS pool.
+That helps, but it should not replace listening, chunking, and fluency practice.
 
-### If pronunciation is weak
-- review recordings
-- focus on clear vowels, endings, and stress
-- repeat common sentence patterns aloud
+## Daily target
+- 10 to 20 items
+- almost every day
 
-## Practice modes
-### Beginner mode
-- short sentences
-- focus on chunking and confidence
-
-### Intermediate mode
-- mixed sentence lengths
-- score by chunk retention and smoothness
-
-### Advanced mode
-- exam-speed practice
-- minimal pause time
-- strict review of dropped function words and endings
-
-## Daily drill recommendation
-Minimum daily work:
-- 10 to 20 RS items
-- short chunk-memory drill
-- review repeated sentence patterns that caused failure
-- build strong familiarity with the current predicted or high-frequency RS pool if the learner is using one
-
-Practical note:
-- for RS, familiarity with common predicted questions can be a real advantage
-- the learner should try to know the major predicted RS pool very well rather than treating every item as brand new
-- but this should support, not replace, chunking, listening, fluency, and pronunciation training
-
-## Scenario-specific advice
-### Student visa / lower threshold
-RS should be one of the main daily engine tasks. It gives strong return and transfers to both listening and speaking.
-
-### Proficient English ("4个7")
-RS is non-negotiable. It should be in the daily plan almost every day because it helps protect two section floors.
-
-### Superior English ("4个8")
-RS is still a major engine task, but the learner must clean up dropped words, unclear pronunciation, and unstable pacing.
-
-## What good feedback should sound like
-- you preserved the main structure, but dropped several function words in the middle
-- your fluency was stable, but the ending chunk was lost
-- pronunciation was clear enough, but you waited too long before starting
-
-## What the agent should prescribe next
-After reviewing RS, the agent should tell the learner:
-1. whether the issue is memory, chunking, fluency, or pronunciation
-2. whether to reduce sentence length temporarily or increase difficulty
-3. how many RS items should remain in the daily routine
+## When to prioritize it
+- almost always
+- especially when Speaking or Listening is weak
