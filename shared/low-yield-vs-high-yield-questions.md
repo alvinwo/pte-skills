@@ -153,7 +153,7 @@ Reduce time on:
 Your job is not to win every question.
 Your job is to pass efficiently.
 
-## all four communicative skills at 65+ learner
+## Proficient English ("4个7") learner
 ### Recommended approach
 Focus on:
 - RS
@@ -171,7 +171,7 @@ Reduce time on:
 ### Coaching message
 Protect every section. Do not let low-yield tasks steal time from the tasks that raise the weak score.
 
-## all four communicative skills at 79+ learner
+## Superior English ("4个8") learner
 ### Recommended approach
 Still prioritize engine tasks first, but do not fully ignore lower-yield tasks.
 

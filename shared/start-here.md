@@ -7,8 +7,8 @@ This repo helps PTE learners who want practical preparation guidance rather than
 
 It is especially useful for learners who need:
 - a student visa English result
-- all four communicative skills at 65+
-- all four communicative skills at 79+
+- Proficient English ("4个7")
+- Superior English ("4个8")
 - a prioritized study plan instead of practicing everything equally
 
 ## What this repo is best at

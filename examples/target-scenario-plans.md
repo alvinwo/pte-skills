@@ -39,9 +39,9 @@ Do not try to master every task equally. Build reliable score through the highes
 
 ---
 
-## Example 2: all four communicative skills at 65+ learner with weak listening
+## Example 2: Proficient English ("4个7") learner with weak listening
 ### Profile
-- goal: all four communicative skills at 65+
+- goal: Proficient English ("4个7")
 - time before exam: 8 weeks
 - study time: 90 minutes per day
 - weak area: listening
@@ -83,9 +83,9 @@ Protect the section floor. The biggest risk is not overall ability — it is one
 
 ---
 
-## Example 3: all four communicative skills at 79+ learner with strong speaking but weak writing
+## Example 3: Superior English ("4个8") learner with strong speaking but weak writing
 ### Profile
-- goal: all four communicative skills at 79+
+- goal: Superior English ("4个8")
 - time before exam: 10 weeks
 - study time: 2 hours per day
 - strengths: speaking confidence

@@ -202,8 +202,8 @@ Then route learners to the highest-yield question types for their weak skills.
 
 For scenario-specific planning, also consult `shared/scenario-based-study-plans.md` so the agent can adjust recommendations for:
 - lower-threshold student visa users
-- all four communicative skills at 65+ users who need balanced section protection
-- all four communicative skills at 79+ users who need stronger consistency and fewer point leaks
+- Proficient English ("4个7") users who need balanced section protection
+- Superior English ("4个8") users who need stronger consistency and fewer point leaks
 
 For daily implementation details, pair the matrix with:
 - `shared/daily-practice-system.md`

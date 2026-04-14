@@ -87,10 +87,10 @@ Try to revisit them every few days instead of leaving long gaps between rounds.
 ### Student visa / lower threshold
 Reading blanks are high-value enough to matter, but the learner should still avoid overinvesting in very hard questions if time is tight.
 
-### all four communicative skills at 65+
+### Proficient English ("4个7")
 Reading blanks should usually be one of the main Reading targets, especially if Reading is the weak section.
 
-### all four communicative skills at 79+
+### Superior English ("4个8")
 Reading blanks are essential. The learner needs both accuracy and time discipline.
 
 ## Practice modes

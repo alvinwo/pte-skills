@@ -4,8 +4,8 @@ This file turns score targets into practical preparation strategies.
 
 Use it when the learner does not just ask for a generic PTE plan, but has a concrete outcome such as:
 - student visa English requirement
-- PR partner pathway / "all four communicative skills at 65+"
-- high-score migration pathway / "all four communicative skills at 79+"
+- PR partner pathway / Proficient English ("4个7")
+- high-score migration pathway / Superior English ("4个8")
 
 This page is not only about target scores.
 It tells the agent how to think about:
@@ -85,7 +85,7 @@ If the learner has limited time:
 
 ---
 
-## Scenario 2: "all four communicative skills at 65+" / PR partner pathway
+## Scenario 2: Proficient English ("4个7") / PR partner pathway
 
 ### Typical user profile
 - Needs each communicative skill to hit a meaningful threshold
@@ -154,12 +154,12 @@ If time is limited and the target is around the threshold rather than elite:
 - one timed mixed set several times per week
 
 ### Warning sign
-A "all four communicative skills at 65+" learner often fails not because they are bad overall, but because one section stays unstable.
+A Proficient English ("4个7") learner often fails not because they are bad overall, but because one section stays unstable.
 The skill should therefore check section floors, not only total ability.
 
 ---
 
-## Scenario 3: "all four communicative skills at 79+" / 189 or 190 high-score pathway
+## Scenario 3: Superior English ("4个8") / 189 or 190 high-score pathway
 
 ### Typical user profile
 - Needs very strong section scores, not just a pass
@@ -200,7 +200,7 @@ They still need score-efficient prioritization, but they also need consistency, 
 - SMW
 - HCS
 
-For a all four communicative skills at 79+ learner, these are not the first place to invest, but they should be trained enough to avoid careless losses.
+For a Superior English ("4个8") learner, these are not the first place to invest, but they should be trained enough to avoid careless losses.
 
 ### Time allocation suggestion
 - 30% on RS + WFD
@@ -219,7 +219,7 @@ For a all four communicative skills at 79+ learner, these are not the first plac
 - weekly full-section or full-test simulation
 - error log review after every serious practice session
 
-### What separates all four communicative skills at 79+ learners
+### What separates Superior English ("4个8") learners
 They need:
 - fewer careless spelling mistakes
 - cleaner pronunciation and fluency
