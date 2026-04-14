@@ -52,6 +52,8 @@ Even outside active study blocks, learners can still improve familiarity and rec
 - RS audio
 - WFD audio
 
+Where the learner is using predicted-question lists, this passive layer should include repeated exposure to the current RS and WFD prediction pool so the learner becomes highly familiar with those items.
+
 Good low-friction moments include:
 - walking
 - commuting

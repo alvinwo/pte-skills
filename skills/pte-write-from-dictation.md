@@ -87,6 +87,12 @@ Minimum daily work:
 - 10 to 20 WFD items
 - daily spelling review
 - review of repeated lost function words
+- build strong familiarity with the current predicted or high-frequency WFD pool if the learner is using one
+
+Practical note:
+- for WFD, familiarity with common predicted questions can be a real advantage
+- the learner should try to know the major predicted WFD pool very well rather than seeing each item as completely new
+- but this should support, not replace, core listening, spelling, and reconstruction skill
 
 ## Scenario-specific advice
 ### Student visa / lower threshold

@@ -84,6 +84,12 @@ Minimum daily work:
 - 10 to 20 RS items
 - short chunk-memory drill
 - review repeated sentence patterns that caused failure
+- build strong familiarity with the current predicted or high-frequency RS pool if the learner is using one
+
+Practical note:
+- for RS, familiarity with common predicted questions can be a real advantage
+- the learner should try to know the major predicted RS pool very well rather than treating every item as brand new
+- but this should support, not replace, chunking, listening, fluency, and pronunciation training
 
 ## Scenario-specific advice
 ### Student visa / lower threshold

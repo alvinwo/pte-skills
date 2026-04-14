@@ -33,6 +33,7 @@ Important note:
 - 10 min WFD practice
 - 20 min DI or weak-skill block
 - extra passive listening to RS and WFD audio whenever possible, such as walking time, commuting, or before sleep
+- if the learner is using prediction lists, become very familiar with the current RS and WFD predicted question pool
 
 ### Weekly focus
 - 4 to 5 core engine days
