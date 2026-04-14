@@ -1,113 +1,83 @@
 # pte-skills
 
-Open-source agent skills to help people practice and prepare for PTE question types.
+A clear, strategy-first PTE prep repo.
 
-## Vision
+This project helps learners decide:
+- what target they need
+- what their weak area is
+- which question types deserve the most time
+- what to practice every day
+- how to approach the main high-yield tasks
 
-This repository provides reusable, transparent, question-type-specific skills for PTE preparation. Each skill should help learners:
+## Who this is for
+- student visa learners
+- Proficient English ("4个7") learners
+- Superior English ("4个8") learners
+- anyone who wants a simple, practical study system
 
-- understand the task format
-- practice with realistic prompts
-- receive rubric-based feedback
-- get targeted improvement advice
-- build transferable strategies across reading, speaking, listening, and writing
-
-## Structure
-
+## Repo structure
 ```text
 pte-skills/
 ├─ README.md
-├─ .gitignore
 ├─ shared/
-│  ├─ reading-tips.md
-│  ├─ speaking-tips.md
-│  ├─ listening-tips.md
-│  ├─ writing-tips.md
-│  ├─ write-essay-strategy.md
-│  ├─ write-essay-templates.md
-│  ├─ all-question-type-tips.md
-│  ├─ current-pte-question-type-audit.md
-│  ├─ current-score-priority-matrix.md
-│  ├─ target-score-planning.md
-│  ├─ australian-visa-english-requirements.md
-│  ├─ scenario-based-study-plans.md
-│  └─ question-type-mapping.md
-├─ data/
-│  └─ au-home-affairs-english-requirements.json
+│  ├─ start-here.md
+│  ├─ priority-map.md
+│  ├─ study-plan.md
+│  ├─ four-skills-guide.md
+│  └─ visa-requirements.md
 ├─ skills/
-│  └─ pte-question-skill-template.md
-└─ examples/
-   └─ sample-session-outline.md
+│  ├─ pte-read-aloud.md
+│  ├─ pte-repeat-sentence.md
+│  ├─ pte-describe-image.md
+│  ├─ pte-retell-lecture.md
+│  ├─ pte-summarize-group-discussion.md
+│  ├─ pte-respond-to-a-situation.md
+│  ├─ pte-write-from-dictation.md
+│  ├─ pte-reading-blanks.md
+│  └─ pte-summarize-written-text.md
+├─ examples/
+│  └─ study-plan-examples.md
+└─ data/
+   └─ au-home-affairs-english-requirements.json
 ```
 
-## Draft scope
+## Start here
+1. `shared/start-here.md`
+2. `shared/priority-map.md`
+3. `shared/study-plan.md`
+4. the skill pages you need most
 
-### Foundation layer
-- Shared guidance for the 4 core PTE skill areas:
-  - Reading
-  - Speaking
-  - Listening
-  - Writing
-- Mapping between PTE question types and the core skill areas they train
-- Audit notes for current official PTE question-type coverage
+## Core ideas
+1. Ask the learner for the target first.
+2. Ask the learner for the weak area first.
+3. Prioritize high-yield tasks before low-yield tasks.
+4. Keep the system simple enough to follow every day.
+5. Use official mock tests to validate readiness, especially for speaking and writing.
 
-### Question-type skills
-Initial high-value targets:
-- Read Aloud
-- Repeat Sentence
-- Describe Image
-- Retell Lecture
-- Write From Dictation
-- Summarize Group Discussion
-- Respond to a Situation
+## Current skill focus
+The repo is intentionally centered on these core skill pages:
+- `skills/pte-read-aloud.md`
+- `skills/pte-repeat-sentence.md`
+- `skills/pte-describe-image.md`
+- `skills/pte-retell-lecture.md`
+- `skills/pte-summarize-group-discussion.md`
+- `skills/pte-respond-to-a-situation.md`
+- `skills/pte-write-from-dictation.md`
+- `skills/pte-reading-blanks.md`
+- `skills/pte-summarize-written-text.md`
 
-## Design principles
+## What this repo is not
+- not a giant question bank
+- not a full scoring engine
+- not a full mock-analysis product
+- not a complete library for every single PTE task yet
 
-1. **Coach, not just grader**  
-   Feedback should explain what to improve, not only assign a score.
-
-2. **Transparent rubrics**  
-   Learners and contributors should be able to see how feedback is generated.
-
-3. **Question-type specialization**  
-   Each skill should focus on one task type with realistic timing and common pitfalls.
-
-4. **Reusable shared guidance**  
-   Macro-level study tips for reading, speaking, listening, and writing should live in shared files.
-
-5. **Open and contributor-friendly**  
-   Content should stay easy to extend with more prompts, rubrics, and examples.
-
-## Proposed first milestone
-
-Ship a polished draft with:
-- shared study tips for reading, speaking, listening, and writing
-- a cross-question-type preparation guide
-- a current score-priority matrix
-- a target-score planning guide
-- a question-type mapping document
-- one reusable question skill template
-- one example learner session outline
-
-## Future roadmap
-
-- Question-type SKILL.md files
-- Prompt banks by level
-- Benchmark answers
-- Diagnostic mode
-- Drill mode by weakness
-- Exam simulation mode
-- Score tracking and study planning
-
-## Contributing ideas
-
-Good contributions include:
-- new question-type skills
-- stronger rubrics
-- better benchmark responses
-- more targeted practice drills
-- clearer learner feedback patterns
+## Contributing
+Good contributions are:
+- clearer explanations
+- better examples
+- stronger practice routines
+- concise updates to the existing strategy
 
 ## License
-
-TBD in this draft.
+TBD
