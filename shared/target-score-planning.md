@@ -10,9 +10,13 @@ Before planning drills, ask the learner:
 - target reading score
 - target listening score
 - current estimated or official scores if available
+- self-identified weak area if they already know it
+- whether the weakness is in a communicative skill (speaking / writing / reading / listening) or in specific question types
 - test date if known
 - whether the goal is general PTE prep or an Australian visa English requirement
 - visa subclass if immigration is the reason for the test
+
+If the learner does not know their weak area yet, infer it from score gaps, mock performance, or repeated question-type failures rather than assuming one.
 
 ## Step 2: Diagnose by score gap
 For each communicative skill:

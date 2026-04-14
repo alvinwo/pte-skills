@@ -2,6 +2,11 @@
 
 This file shows what the repo's planning guidance should look like in practice.
 
+Important note:
+- these are illustrative example profiles, not default assumptions about every learner
+- the agent should ask the user about target scores and weak areas first
+- if the learner is not sure where the weakness is, the agent should diagnose it from scores, mocks, or repeated task failures
+
 ## Example 1: Student visa learner
 ### Profile
 - goal: student visa English result
