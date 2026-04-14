@@ -115,6 +115,12 @@ Passive add-on:
 - Speaking weak -> DI
 - Writing weak -> SWT / WE sentence control
 
+For HIW specifically:
+- first test whether the learner can keep up with the speed
+- use short note cues or partial letters rather than full spelling
+- focus on singular/plural forms and tense changes
+- if HIW already feels manageable, keep it low-volume
+
 ## Option B: 90 minutes per day
 For moderate targets or Proficient English ("4个7") learners.
 

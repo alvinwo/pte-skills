@@ -119,6 +119,10 @@ High-yield tasks matter most, but weak components must be managed carefully.
 - SGD
 - RL
 
+Practical note:
+- HIW should usually be tested first for fit
+- if the learner can already keep up with the speed and catch singular/plural or tense mismatches, HIW does not need a large study block
+
 #### If Reading is the risk
 - FIB Dropdown
 - FIB Drag/Drop

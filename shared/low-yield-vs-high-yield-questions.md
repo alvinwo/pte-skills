@@ -75,6 +75,10 @@ Why it is often high-yield:
 - strong accuracy training
 - supports concentration and word recognition
 
+Practical caution:
+- do a few HIW questions first to check whether the learner can keep up with the speed
+- if the learner can already follow the audio and catch mismatches reliably, HIW should stay a support task rather than a major time sink
+
 ---
 
 ## Tier 2: Important support tasks

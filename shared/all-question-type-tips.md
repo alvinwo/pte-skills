@@ -185,12 +185,19 @@ The exact percentages can be refreshed later, but the key idea is stable: some t
 
 ## HIW — Highlight Incorrect Words
 ### Main idea
-- This is mostly an attention-control task.
+- This is mostly an attention-control and pace-control task.
 
 ### Practical method
-- Follow the audio closely.
+- Test a few HIW questions first to see whether you can keep up with the audio speed.
+- The goal is not perfect full-note transcription.
+- Usually it is enough to jot down a few letters or a short cue that you can recognize a moment later.
+- Pay special attention to singular vs plural forms and tense differences.
 - If you catch a mismatch, respond quickly and then move on.
 - If you are uncertain, do not overthink and overclick, because wrong clicks can hurt.
+
+### Time-investment rule
+- If the learner can already follow the speed and catch likely mismatches reliably, HIW should stay a low-time support task.
+- Do not overtrain HIW if WFD, RS, or other higher-yield listening tasks still need work.
 
 ## Study process recommendations
 - Do official mock exams before the real test.
