@@ -19,6 +19,8 @@ This project helps learners decide:
 ```text
 pte-skills/
 ├─ README.md
+├─ LICENSE
+├─ CONTRIBUTING.md
 ├─ SKILL_FORMAT.md
 ├─ shared/
 │  ├─ start-here.md
@@ -49,7 +51,7 @@ pte-skills/
 4. the skill pages you need most
 
 ## Skill format
-This repo now uses a small, universal Markdown skill format.
+This repo uses a small, universal Markdown skill format.
 
 See:
 - `SKILL_FORMAT.md`
@@ -90,6 +92,9 @@ The repo is intentionally centered on these core skill pages:
 - not a complete library for every single PTE task yet
 
 ## Contributing
+See:
+- `CONTRIBUTING.md`
+
 Good contributions are:
 - clearer explanations
 - better examples
@@ -98,4 +103,6 @@ Good contributions are:
 - skill pages that follow `SKILL_FORMAT.md`
 
 ## License
-TBD
+This repo uses the MIT License.
+See:
+- `LICENSE`
