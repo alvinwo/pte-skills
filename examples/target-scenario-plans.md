@@ -54,10 +54,15 @@ Do not try to master every task equally. Build reliable score through the highes
 - SGD
 - RL
 
-### Maintain but do not overfocus
+### Maintain strongly, but do not let them replace the listening rescue work
 - RA
 - DI
 - writing templates
+
+Note:
+- RA and DI are still important for a Proficient English ("4个7") target because they are major Speaking tasks.
+- They are secondary in this specific example only because the learner's stated weak area is Listening, so WFD / RS / HIW / FIB-L get the first extra study time.
+- If Speaking were the weaker or less stable section, RA and DI should move back into the priority block.
 
 ### Deprioritize for now
 - listening MCQ unless accuracy is extremely poor
