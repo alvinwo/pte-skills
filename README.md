@@ -59,7 +59,6 @@ pte-skills/
 │  ├─ vocabulary-strategy.md
 │  ├─ low-yield-vs-high-yield-questions.md
 │  ├─ official-mock-test-guidance.md
-│  ├─ external-reference-notes.md
 │  ├─ start-here.md
 │  ├─ v1-shipping-assessment.md
 │  ├─ v1-release-checklist.md
