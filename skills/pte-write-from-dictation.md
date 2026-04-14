@@ -22,7 +22,8 @@ WFD is one of the highest-value tasks in the test. It supports Listening and Wri
 4. check articles, plurals, prepositions, and tense endings
 5. save failed items for review
 
-## Practical note on prediction lists
+## Special notes
+### Prediction lists
 If the learner uses prediction lists, they should become very familiar with the current WFD pool.
 That helps, but it should not replace spelling, listening, and reconstruction training.
 

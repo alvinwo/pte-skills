@@ -22,7 +22,8 @@ RS is one of the biggest engine tasks because it supports both Speaking and List
 4. review dropped function words and endings
 5. repeat failed items again later
 
-## Practical note on prediction lists
+## Special notes
+### Prediction lists
 If the learner uses prediction lists, they should become very familiar with the current RS pool.
 That helps, but it should not replace listening, chunking, and fluency practice.
 

@@ -55,16 +55,16 @@ pte-skills/
 5. Use official mock tests to validate readiness, especially for speaking and writing.
 
 ## Current skill focus
-The repo is intentionally centered on the main practical tasks:
-- Read Aloud
-- Repeat Sentence
-- Describe Image
-- Retell Lecture
-- Summarize Group Discussion
-- Respond to a Situation
-- Write From Dictation
-- Reading Blanks
-- Summarize Written Text
+The repo is intentionally centered on these core skill pages:
+- `skills/pte-read-aloud.md`
+- `skills/pte-repeat-sentence.md`
+- `skills/pte-describe-image.md`
+- `skills/pte-retell-lecture.md`
+- `skills/pte-summarize-group-discussion.md`
+- `skills/pte-respond-to-a-situation.md`
+- `skills/pte-write-from-dictation.md`
+- `skills/pte-reading-blanks.md`
+- `skills/pte-summarize-written-text.md`
 
 ## What this repo is not
 - not a giant question bank
