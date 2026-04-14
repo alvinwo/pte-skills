@@ -116,9 +116,10 @@ Passive add-on:
 - Writing weak -> SWT / WE sentence control
 
 For HIW specifically:
-- first test whether the learner can keep up with the speed
-- use short note cues or partial letters rather than full spelling
-- focus on singular/plural forms and tense changes
+- use the 10-second countdown to read ahead and anticipate likely mismatches
+- follow the text actively and click only when you are sure the spoken word is different
+- remember the negative marking: each wrong click costs points, so avoid guessing
+- if you miss one word, move on immediately so you do not lose the next one
 - if HIW already feels manageable, keep it low-volume
 
 ## Option B: 90 minutes per day

@@ -76,7 +76,9 @@ Why it is often high-yield:
 - supports concentration and word recognition
 
 Practical caution:
-- do a few HIW questions first to check whether the learner can keep up with the speed
+- first test whether the learner can track the text at audio speed without panicking
+- use the countdown to preview the passage and anticipate possible mismatches
+- because HIW has negative marking, only click words you are confident are different
 - if the learner can already follow the audio and catch mismatches reliably, HIW should stay a support task rather than a major time sink
 
 ---

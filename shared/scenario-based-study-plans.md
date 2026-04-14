@@ -121,7 +121,8 @@ High-yield tasks matter most, but weak components must be managed carefully.
 
 Practical note:
 - HIW should usually be tested first for fit
-- if the learner can already keep up with the speed and catch singular/plural or tense mismatches, HIW does not need a large study block
+- if the learner can already keep up with the speed, avoid overtraining it
+- use the countdown to preview the text, and remember that negative marking means only confident clicks are worth taking
 
 #### If Reading is the risk
 - FIB Dropdown

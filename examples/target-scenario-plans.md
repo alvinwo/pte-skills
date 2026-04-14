@@ -68,6 +68,7 @@ Do not try to master every task equally. Build reliable score through the highes
 - 15 min RS
 - 15 min WFD
 - 10 min HIW or FIB-L only if listening detail is the weak area
+- for HIW, preview with the countdown and click only on confident mismatches; for FIB-L, rough cue letters are enough during the audio if they help recall the word later
 - 15 min RA or DI maintenance
 - 20 min review log, timed mixed set, or a second WFD/RS block
 

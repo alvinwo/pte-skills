@@ -169,9 +169,9 @@ The exact percentages can be refreshed later, but the key idea is stable: some t
 
 ### Practical method
 - Use efficient navigation between blanks.
-- On the first pass, write something recognizable rather than chasing perfect spelling immediately.
-- Still pay attention to singular/plural and verb form.
-- After the audio, audit every blank quickly.
+- You do not need perfect note-taking while the audio is playing; partial spelling or a few cue letters can be enough if they let you recall the word a moment later.
+- Pay special attention to singular/plural forms and tense or verb-form changes.
+- After the audio, audit every blank quickly and clean up spelling where possible.
 
 ## ASQ — Answer Short Question
 ### Main idea
@@ -188,12 +188,12 @@ The exact percentages can be refreshed later, but the key idea is stable: some t
 - This is mostly an attention-control and pace-control task.
 
 ### Practical method
-- Test a few HIW questions first to see whether you can keep up with the audio speed.
-- The goal is not perfect full-note transcription.
-- Usually it is enough to jot down a few letters or a short cue that you can recognize a moment later.
-- Pay special attention to singular vs plural forms and tense differences.
-- If you catch a mismatch, respond quickly and then move on.
-- If you are uncertain, do not overthink and overclick, because wrong clicks can hurt.
+- Use the 10-second countdown to read ahead and predict where mismatches may appear.
+- Follow the text actively, ideally with the cursor, so your eyes and attention stay aligned with the audio.
+- If you catch a mismatch, click quickly and move on.
+- If you miss one word, do not stop to think, because the next mismatch may come immediately.
+- Because HIW has negative marking, only click words you are confident are different.
+- There are usually only a limited number of incorrect words, so avoid panic-clicking.
 
 ### Time-investment rule
 - If the learner can already follow the speed and catch likely mismatches reliably, HIW should stay a low-time support task.
