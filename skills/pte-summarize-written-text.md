@@ -26,10 +26,17 @@
 3. keep connectors simple
 4. check capitalization, commas, and the final period
 
+## Special notes
+- PTE Academic: one complete sentence, 5–75 words, within 10 minutes. PTE Core uses different requirements.
+- Include the main idea and essential support without changing the source meaning. Check both form and content.
+- A conjunction or subordinate clause must create a grammatical sentence; joining sentences with commas alone is not enough.
+
 ## Daily target
 - support-task volume when Reading or Writing needs help
 
 ## Related files
-- `shared/four-skills-guide.md`
-- `shared/priority-map.md`
-- `shared/study-plan.md`
+- [Four Skills Guide](../shared/four-skills-guide.md)
+- [Priority Map](../shared/priority-map.md)
+- [Study Plan](../shared/study-plan.md)
+- [AI coaching guide](../shared/coaching-guide.md)
+- [Official sources](../shared/sources.md)

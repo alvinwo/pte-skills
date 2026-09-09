@@ -27,11 +27,18 @@
 4. finish with a short summary sentence
 5. keep the structure repeatable and safe
 
+## Special notes
+- Cover the main feature and supporting relationships; do not invent unreadable numbers or causes.
+- Adapt to the image: compare chart values, order process steps, or describe map locations. A trend is not required for every image.
+- PTE Academic: 25 seconds preparation, 40 seconds response.
+
 ## Daily target
 - short regular practice
 - good weak-area block for Speaking
 
 ## Related files
-- `shared/four-skills-guide.md`
-- `shared/priority-map.md`
-- `shared/study-plan.md`
+- [Four Skills Guide](../shared/four-skills-guide.md)
+- [Priority Map](../shared/priority-map.md)
+- [Study Plan](../shared/study-plan.md)
+- [AI coaching guide](../shared/coaching-guide.md)
+- [Official sources](../shared/sources.md)

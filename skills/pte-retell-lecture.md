@@ -27,10 +27,16 @@
 4. keep transitions simple
 5. favor fluency over perfection
 
+## Special notes
+- Preserve the source meaning and relevant support; fluency does not replace content.
+- Do not fill missing notes with invented facts. Compare the attempt against the source after speaking.
+
 ## Daily target
-- support-task volume, not the whole study plan
+- a support block, or a primary block when RL is an observed weakness
 
 ## Related files
-- `shared/four-skills-guide.md`
-- `shared/priority-map.md`
-- `shared/study-plan.md`
+- [Four Skills Guide](../shared/four-skills-guide.md)
+- [Priority Map](../shared/priority-map.md)
+- [Study Plan](../shared/study-plan.md)
+- [AI coaching guide](../shared/coaching-guide.md)
+- [Official sources](../shared/sources.md)

@@ -26,10 +26,17 @@
 4. use collocation as the final filter
 5. save repeated mistakes for review
 
+## Special notes
+- Distinguish the drop-down and drag-and-drop variants and follow the current task instructions.
+- Example: “The results ___ consistent with the hypothesis.” With options “is / are / be”, choose “are”: plural subject plus finite verb.
+- Check the entire sentence again; grammar, meaning, and collocation work together.
+
 ## Daily target
 - regular reading block when Reading is weak
 
 ## Related files
-- `shared/four-skills-guide.md`
-- `shared/priority-map.md`
-- `shared/study-plan.md`
+- [Four Skills Guide](../shared/four-skills-guide.md)
+- [Priority Map](../shared/priority-map.md)
+- [Study Plan](../shared/study-plan.md)
+- [AI coaching guide](../shared/coaching-guide.md)
+- [Official sources](../shared/sources.md)

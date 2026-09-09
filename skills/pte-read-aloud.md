@@ -28,11 +28,18 @@
 4. keep the voice clear, not dramatic
 5. review unclear words and endings
 
+## Special notes
+- Read the original wording accurately; do not paraphrase or correct the source while reading.
+- Review pronunciation and fluency only from playable audio; a transcript cannot establish them.
+- In short study sessions, use a brief warm-up rather than automatically allocating 30 minutes.
+
 ## Daily target
-- usually 10 to 30 minutes
+- a short warm-up, or a focused block when RA is an observed weakness
 - do it before serious RS work if possible
 
 ## Related files
-- `shared/four-skills-guide.md`
-- `shared/priority-map.md`
-- `shared/study-plan.md`
+- [Four Skills Guide](../shared/four-skills-guide.md)
+- [Priority Map](../shared/priority-map.md)
+- [Study Plan](../shared/study-plan.md)
+- [AI coaching guide](../shared/coaching-guide.md)
+- [Official sources](../shared/sources.md)

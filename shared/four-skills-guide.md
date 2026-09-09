@@ -27,5 +27,6 @@ Use this file for broad reading, speaking, listening, and writing advice.
 - use safe structures rather than complicated ones
 
 ## Essay note
-For WE, do not overinvest compared with bigger engine tasks.
-Use a reliable structure, choose a side quickly, and keep examples broad and simple.
+For WE, allocate time based on actual Writing errors. Read the prompt before choosing a position; develop relevant reasons and examples. A reliable structure helps, but a memorized off-topic essay does not. Include full timed attempts when WE is a weakness.
+
+These are practice suggestions, not official task weights. See the [Priority Map](priority-map.md) and [official sources](sources.md).

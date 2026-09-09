@@ -71,3 +71,20 @@ That means:
 ## Recommendation
 If a future tool needs structured metadata, add a tiny YAML frontmatter block later.
 For now, keep the format plain and stable.
+
+## Chinese edition
+
+Keep the portable Markdown format. Chinese task pages live in `zh-CN/skills/` with identical filenames and these headings in the same order:
+
+| English | Chinese |
+| --- | --- |
+| Purpose | 这题练什么 |
+| When to use | 什么时候练 |
+| Success looks like | 做到什么算有效 |
+| Common mistakes | 常见错误 |
+| Practice method | 练习步骤 |
+| Special notes | 特别提醒 |
+| Daily target | 当天练多少 |
+| Related files | 相关文件 |
+
+Explain in Chinese; retain English task names/abbreviations and English practice answers. Keep numerical rules, scope and evidence limits aligned across editions. Link shared coaching behavior to `shared/coaching-guide.md` within the selected language edition. Keep task-specific instructions in the task page.

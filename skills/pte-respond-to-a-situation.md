@@ -5,7 +5,7 @@
 - use simple, controlled spoken English instead of a rigid script
 
 ## When to use
-- after the bigger engine tasks are stable
+- when the task is unfamiliar or the learner repeatedly misses its purpose
 - when the learner specifically struggles with this format
 
 ## Success looks like
@@ -27,10 +27,17 @@
 4. add one useful detail if needed
 5. end cleanly
 
+## Special notes
+- PTE Academic: 10 seconds preparation and 40 seconds response.
+- Speak directly to the person in the situation; do not merely describe what you would do.
+- Preserve the prompt’s requested action, deadline, and constraints; match formal or informal language to the listener.
+
 ## Daily target
-- light support practice
+- a focused block when weak; light maintenance once reliable
 
 ## Related files
-- `shared/four-skills-guide.md`
-- `shared/priority-map.md`
-- `shared/study-plan.md`
+- [Four Skills Guide](../shared/four-skills-guide.md)
+- [Priority Map](../shared/priority-map.md)
+- [Study Plan](../shared/study-plan.md)
+- [AI coaching guide](../shared/coaching-guide.md)
+- [Official sources](../shared/sources.md)
