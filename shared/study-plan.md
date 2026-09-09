@@ -27,6 +27,17 @@ For 120 minutes, add a 20-minute mixed block and a 10-minute break to the 90-min
 
 Stop at the end of the time block even if a suggested item count is unfinished. Keep one useful correction from the session.
 
+## Commute / bedtime listening: the contributor’s own routine
+
+Replay RS/WFD material during commutes and while still awake before bed, without requiring a formal desk session each time.
+
+- **RS: listen until familiar; word-for-word rote memorization is not required.** Add a paused repetition when speaking is practical.
+- **WFD: after familiarity, memorization is useful when feasible.** At a desk, hide the transcript and write exactly, including small words, endings, and spelling.
+- Group items as unfamiliar / familiar by ear / reproducible in speech or writing. Repeat the first group most, and revisit the others at intervals.
+- These optional spare-time sessions are separate from the 45/60/90-minute desk budgets; this is not a recommendation to play audio during sleep.
+
+See [RS](../skills/pte-repeat-sentence.md) and [WFD](../skills/pte-write-from-dictation.md).
+
 ## A seven-day rhythm
 
 - Monday–Wednesday: primary-task practice plus review.

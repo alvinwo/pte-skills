@@ -40,3 +40,9 @@ For many learners, the first skill pages to open are:
 ## Simple rule
 Target decides the score floor.
 Weak area decides the first priority.
+
+## Continue reading
+
+- [All 22 question types](task-map.md)
+- [Preparation roadmap](study-roadmap.md)
+- [YouTube / Reddit research](research-notes.md)

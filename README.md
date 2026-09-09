@@ -31,7 +31,10 @@ pte-skills/
 │  ├─ four-skills-guide.md
 │  ├─ visa-requirements.md
 │  ├─ coaching-guide.md
-│  └─ sources.md
+│  ├─ sources.md
+│  ├─ task-map.md
+│  ├─ study-roadmap.md
+│  └─ research-notes.md
 ├─ skills/
 │  ├─ pte-read-aloud.md
 │  ├─ pte-repeat-sentence.md
@@ -41,9 +44,11 @@ pte-skills/
 │  ├─ pte-respond-to-a-situation.md
 │  ├─ pte-write-from-dictation.md
 │  ├─ pte-reading-blanks.md
-│  └─ pte-summarize-written-text.md
+│  ├─ pte-summarize-written-text.md
+│  └─ ... (12 additional guides; see shared/task-map.md)
 ├─ examples/
-│  └─ study-plan-examples.md
+│  ├─ study-plan-examples.md
+│  └─ new-speaking-drills.md
 ├─ data/
 │  └─ au-home-affairs-english-requirements.json
 ├─ zh-CN/
@@ -92,8 +97,12 @@ It is a portable Markdown instruction format.
 4. Keep the system simple enough to follow every day.
 5. Use official mock tests to validate readiness, especially for speaking and writing.
 
-## Current skill focus
-The repo is intentionally centered on these core skill pages:
+## Full coverage and core practice
+
+Use the [22-type task map](shared/task-map.md) to reach every current PTE Academic question type. There are 21 task guides because the two reading-blank variants share a page. Start with the [preparation roadmap](shared/study-roadmap.md), then prioritize according to actual errors.
+
+### Original core guides
+These original core pages remain available:
 - `skills/pte-read-aloud.md`
 - `skills/pte-repeat-sentence.md`
 - `skills/pte-describe-image.md`
@@ -108,7 +117,7 @@ The repo is intentionally centered on these core skill pages:
 - not a giant question bank
 - not a full scoring engine
 - not a full mock-analysis product
-- not a complete library for every single PTE task yet
+- type coverage is complete; it is not a full course, question bank, or scoring system
 
 ## Contributing
 See:
@@ -129,5 +138,9 @@ See:
 ## Sources and sharing
 
 - [Official sources and scope](shared/sources.md) — checked 2026-09-09.
-- [Chinese student edition](zh-CN/README.md) — onboarding, all nine task guides, and worked examples.
+- [Chinese student edition](zh-CN/README.md) — onboarding, all 22 question types in 21 guides, and worked examples.
 - [Xiaohongshu launch draft and tool comparison](publishing/xiaohongshu-launch.zh-CN.md).
+
+- [New-task research: YouTube and Reddit](shared/research-notes.md).
+- [Original SGD/RTS drills](examples/new-speaking-drills.md).
+- [Contributor RS/WFD listening routine](shared/study-plan.md).

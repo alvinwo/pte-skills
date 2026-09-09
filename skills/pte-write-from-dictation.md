@@ -33,6 +33,14 @@
 - Original practice example: “The students have submitted their final reports.” Review missing words, endings, and spelling separately. Do not show this answer before an attempt.
 - Familiar lists do not prove unseen listening accuracy; no prediction hit rate is guaranteed.
 
+### Contributor-tested routine: familiarity, then exact memorization where possible
+
+Replay WFD material during commutes and while still awake before bed until familiar. For WFD, the contributor recommends memorizing sentences when feasible, ideally well enough to write them exactly: articles, prepositions, plural/tense endings, and spelling matter as well as meaning.
+
+Loop the audio → hide the transcript and write from memory → mark differences → dictate again the next day. Track “sounds familiar” separately from “written correctly”. If a later sentence differs, write what that recording says rather than forcing a memorized version.
+
+This is contributor experience, not a prediction hit rate or score guarantee. Memorizing existing material can coexist with occasional unfamiliar items.
+
 ## Daily target
 - 10 to 20 items as a flexible starting point when regular practice is useful
 - stop at the time limit and retain time for correction

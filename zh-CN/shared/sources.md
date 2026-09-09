@@ -10,6 +10,12 @@
 | [Pearson 2025调整说明](https://www.pearsonpte.com/pte-updates-2025/) | Academic更新和新增题型 |
 | [澳洲内政部英语要求](https://immi.homeaffairs.gov.au/help-support/meeting-our-requirements/english-language) | 认可考试、考试日期、签证具体要求 |
 
-分钟数、题量、优先级与复习方法是本项目的教学建议，不是官方权重、完整考试大纲或真题预测。具体评分请查Pearson题型页链接的最新Score Guide，不编造固定贡献百分比。
+分钟数、题量、优先级与复习方法是本项目的教学建议，不是官方权重或真题预测。题型全览涵盖当前全部题型，但本项目不是完整课程或题库。具体评分请查Pearson题型页链接的最新Score Guide，不编造固定贡献百分比。
 
 本项目保存的澳洲分数表适用于2025年8月7日及之后参加的PTE Academic；较早成绩需查看对应日期的表。签证与学校要求分别核对，再判断成绩是否符合。
+
+## 继续阅读
+
+- [22种题型全览](task-map.md)
+- [整体备考路线](study-roadmap.md)
+- [YouTube / Reddit检索记录](research-notes.md)

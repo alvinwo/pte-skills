@@ -34,3 +34,9 @@ For listening practice, keep the transcript hidden until after the attempt. If t
 Use observed errors and remaining time. Suggested item counts are flexible; stop when the time block ends and leave time to review. Alternate familiar items with unseen ones to distinguish memorization from transferable skill. Prediction lists are optional learner-provided practice material, not verified forecasts.
 
 Read [Start Here](start-here.md), [Priority Map](priority-map.md), and the relevant task page. For current task rules, consult the [official sources](sources.md).
+
+## Continue reading
+
+- [All 22 question types](task-map.md)
+- [Preparation roadmap](study-roadmap.md)
+- [YouTube / Reddit research](research-notes.md)

@@ -32,3 +32,9 @@ AI 给的是练习建议，不能编造官方PTE分数或承诺提分。语音�
 根据真实错题调整，题量服从时间预算。熟题与陌生题混练，区分“背住了”与“换题也会”。预测题仅是可选材料，不声称已经验证命中率。
 
 配合[入门](start-here.md)、[优先级](priority-map.md)、题型页和[官方来源](sources.md)使用。
+
+## 继续阅读
+
+- [22种题型全览](task-map.md)
+- [整体备考路线](study-roadmap.md)
+- [YouTube / Reddit检索记录](research-notes.md)

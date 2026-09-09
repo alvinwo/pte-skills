@@ -33,6 +33,12 @@
 - Use familiar and unseen material. Prediction lists are optional, not verified forecasts.
 - If playback is unavailable, label visible-text work as memory practice, not a listening test.
 
+### Contributor-tested routine: listen to familiarity, without rote memorization
+
+Replay RS material during commutes and while still awake before bed. Become familiar with the sound and phrase groups; RS does not require memorizing every sentence word for word. When speaking is practical, pause after a sentence, repeat it, and check the unclear chunk. Rotate small playlists rather than always restarting at the beginning.
+
+This is the project contributor’s study experience, not an official guarantee. Replays belong to learning; a simulated attempt still uses one playback.
+
 ## Daily target
 - 10 to 20 items as a flexible starting point when regular practice is useful
 - stop at the time limit and retain time for correction

@@ -32,6 +32,12 @@
 - Speak directly to the person in the situation; do not merely describe what you would do.
 - Preserve the prompt’s requested action, deadline, and constraints; match formal or informal language to the listener.
 
+### Use four preparation questions
+
+Who is the listener? What must I accomplish? Which details must remain? Which register fits?
+
+If a natural reply is only one sentence, develop the stated reason, timing, constraints, and required next step without inventing commitments. Practise task completion first, then natural delivery within 40 seconds. Rotate requests, apologies, refusals, and suggestions across different listeners.
+
 ## Daily target
 - a focused block when weak; light maintenance once reliable
 
@@ -41,3 +47,5 @@
 - [Study Plan](../shared/study-plan.md)
 - [AI coaching guide](../shared/coaching-guide.md)
 - [Official sources](../shared/sources.md)
+- [Original drills and corrections](../examples/new-speaking-drills.md)
+- [Research and adoption notes](../shared/research-notes.md)

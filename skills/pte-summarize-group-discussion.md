@@ -32,6 +32,12 @@
 - Keep one row per speaker: viewpoint, reason/example, agreement or disagreement. Return to the same row when that speaker speaks again.
 - Paraphrase each speaker accurately and explain relationships; do not invent consensus or assign uncertain points to a speaker.
 
+### Practise components, then combine them
+
+First practise speaker attribution in notes, then turn each row into a sentence, then connect viewpoints in a timed attempt. Add returning speakers to their original row and track changed positions. Avoid losing later content while transcribing full sentences.
+
+Two minutes is the response limit, not a requirement to fill every second. There is no community minimum-duration guarantee; add details only when supported.
+
 ## Daily target
 - a focused block when unfamiliar or weak; maintenance once reliable
 
@@ -41,3 +47,5 @@
 - [Study Plan](../shared/study-plan.md)
 - [AI coaching guide](../shared/coaching-guide.md)
 - [Official sources](../shared/sources.md)
+- [Original drills and corrections](../examples/new-speaking-drills.md)
+- [Research and adoption notes](../shared/research-notes.md)

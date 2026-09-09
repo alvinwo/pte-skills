@@ -23,6 +23,12 @@ SGD and RTS belong in practice when unfamiliar or weak; do not wait until all ot
 - 7炸 / Proficient or 8炸 / Superior: clarify these common migration shorthand labels, then verify the applicable dated requirements. Do not silently interpret them as four 65s or four 79s for a current test.
 - Higher targets: diagnose task-level losses as well as grammar, spelling, and delivery. Use unfamiliar questions to check transfer.
 
-Keep some coverage of the whole exam. MCQ and tasks with no dedicated page here still need familiarization and targeted repair. For missing task guides, use [Pearson's format pages](sources.md).
+Keep some coverage of the whole exam. Use the [complete task map](task-map.md) to familiarize yourself with every type, including MCQ; allocate repair time according to actual errors.
 
 See [Study Plan](study-plan.md) for time budgets and [Coaching Guide](coaching-guide.md) for feedback boundaries.
+
+## Continue reading
+
+- [All 22 question types](task-map.md)
+- [Preparation roadmap](study-roadmap.md)
+- [YouTube / Reddit research](research-notes.md)

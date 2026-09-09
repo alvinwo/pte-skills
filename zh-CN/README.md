@@ -26,7 +26,11 @@
 4. [四项能力指南](shared/four-skills-guide.md)：理解常见问题。
 5. [AI 带练说明](shared/coaching-guide.md)：知道什么反馈有依据。
 
-## 九个题型指南
+## 全部22种题型，21份指南
+
+先看[题型全览](shared/task-map.md)，再读[整体备考路线](shared/study-roadmap.md)。两类阅读填空合用一份指南；以下保留最初九个核心入口，其余题型都能从全览进入。
+
+### 最初九个核心入口
 
 | 缩写 | 题型 | 适合解决的问题 |
 | --- | --- | --- |
@@ -40,7 +44,7 @@
 | Reading Blanks | [阅读填空](skills/pte-reading-blanks.md) | 语法、搭配、上下文判断不稳 |
 | SWT | [总结书面文本](skills/pte-summarize-written-text.md) | 主旨不全、单句结构失控 |
 
-目前未覆盖每个考试题型。WE（作文）、SST（总结听力文本）、HIW（找出错误单词）、FIB-L（听力填空）、RO（段落排序）等会在计划中提及，完整规则请看[官方来源](shared/sources.md)。没有独立指南，不代表可以不练。
+已补齐WE（作文）、ASQ、RO、阅读单选/多选、SST、听力填空、听力单选/多选、HCS、SMW、HIW的独立指南。完整入口见[题型全览](shared/task-map.md)。这是全部题型的基础指南，不等于完整题库或官方模考。
 
 ## 学习示例与目标
 
@@ -55,3 +59,7 @@
 [小红书介绍文案与工具对比](../publishing/xiaohongshu-launch.zh-CN.md) · [贡献指南](../CONTRIBUTING.md) · [MIT License](../LICENSE)
 
 中文学习资料对应根目录英文版；修订时请同步关键规则、数字和链接。中文版保留相同文件名，方便对照。
+
+- [新题技巧：YouTube / Reddit检索与采纳记录](shared/research-notes.md)
+- [SGD / RTS原创练习与纠错](examples/new-speaking-drills.md)
+- [作者亲测RS / WFD磨耳朵方法](shared/study-plan.md)

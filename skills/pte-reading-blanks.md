@@ -27,6 +27,14 @@
 5. save repeated mistakes for review
 
 ## Special notes
+
+| Variant | Interaction and practice |
+| --- | --- |
+| Dropdown | Each gap has its own choices; compare grammar, meaning, and collocation locally. |
+| Drag and Drop | Use a shared word bank with possible extra words; reconsider remaining choices and the full passage after filling a gap. |
+
+For both, reread the passage; a locally grammatical answer can still be wrong in context.
+
 - Distinguish the drop-down and drag-and-drop variants and follow the current task instructions.
 - Example: “The results ___ consistent with the hypothesis.” With options “is / are / be”, choose “are”: plural subject plus finite verb.
 - Check the entire sentence again; grammar, meaning, and collocation work together.
