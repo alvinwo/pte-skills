@@ -9,7 +9,9 @@
       "proficient": "https://immi.homeaffairs.gov.au/help-support/meeting-our-requirements/english-language/proficient-english",
       "superior": "https://immi.homeaffairs.gov.au/help-support/meeting-our-requirements/english-language/superior-english"
     },
-    "note": "Home Affairs says approved English tests changed on 7 August 2025. PTE Academic keeps the same name as the previous version, but accepted scores are different. Validate live before giving final migration advice."
+    "note": "Home Affairs says approved English tests changed on 7 August 2025. PTE Academic keeps the same name as the previous version, but accepted scores are different. Validate live before giving final migration advice.",
+    "last_verified": "2026-09-09",
+    "applies_to": "PTE Academic tests taken on or after 2025-08-07"
   },
   "runtime_validation": {
     "required": true,
@@ -21,6 +23,7 @@
     "checks": [
       "confirm the correct English level",
       "confirm the visa subclass",
+      "confirm the test date and use the matching dated requirements table",
       "confirm whether the user is using PTE Academic specifically",
       "re-check the official Home Affairs page for current thresholds and validity windows"
     ]

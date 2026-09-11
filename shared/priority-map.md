@@ -1,82 +1,34 @@
 # Priority Map
 
-This file keeps the repo's prioritization logic simple.
+## Start with the learner
 
-## Step 1: ask first
-Before giving a plan, ask:
-- target scores
-- weak area
-- time before exam
-- daily study time
-- current score or mock result if available
+Use known details first. Ask for missing target section scores, recent results, weak tasks, exam date, and daily time. Confirm PTE Academic. If evidence is missing, give a provisional plan and use short practice attempts to locate the weakness.
 
-## Step 2: use these default priorities
+## Candidate tasks by weakness
 
-### If Speaking is weak
-Prioritize:
-- RS
-- RA
-- DI
-- then RL / SGD / RTS
+These are starting points, not official weights or a universal ranking. Pick two primary tasks based on actual mistakes and required section floors.
 
-### If Listening is weak
-Prioritize:
-- WFD
-- RS
-- then HIW / FIB-L / SGD / RL
+| Weak area | Candidate tasks | What decides priority |
+| --- | --- | --- |
+| Speaking | RS, RA, DI, RL, SGD, RTS | Word recall, intelligibility, content coverage, or situation response |
+| Listening | WFD, RS, listening blanks, HIW, SGD, RL | Decoding, recall, spelling, or speaker attribution |
+| Reading | Reading blanks, reorder paragraphs, SWT | Grammar, collocation, paragraph logic, or main-idea selection |
+| Writing | WFD, SWT, WE, SST, listening blanks | Spelling, sentence accuracy, summary content, or essay development |
 
-### If Reading is weak
-Prioritize:
-- Reading Blanks
-- Reorder Paragraph
-- SWT
+SGD and RTS belong in practice when unfamiliar or weak; do not wait until all other speaking tasks are mastered. WE deserves substantial time when it is the bottleneck. RS/WFD are useful recurring drills, but need not displace every other task daily.
 
-### If Writing is weak
-Prioritize:
-- WFD
-- SWT
-- WE
-- SST / FIB-L support work
+## Targets change the plan
 
-## High-yield tasks for many learners
-These are the tasks that often deserve the most regular practice:
-- RS
-- WFD
-- RA
-- DI
-- Reading Blanks
+- Study or student-visa purpose: confirm the institution's and visa's actual requirements; there is no universal student-visa target here.
+- 7炸 / Proficient or 8炸 / Superior: clarify these common migration shorthand labels, then verify the applicable dated requirements. Do not silently interpret them as four 65s or four 79s for a current test.
+- Higher targets: diagnose task-level losses as well as grammar, spelling, and delivery. Use unfamiliar questions to check transfer.
 
-## Lower-yield tasks
-Usually spend less time on:
-- reading MCQ
-- listening MCQ
-- small low-frequency cleanup tasks
+Keep some coverage of the whole exam. Use the [complete task map](task-map.md) to familiarize yourself with every type, including MCQ; allocate repair time according to actual errors.
 
-Do not ignore them completely if they are leaking easy points.
+See [Study Plan](study-plan.md) for time budgets and [Coaching Guide](coaching-guide.md) for feedback boundaries.
 
-## Simple scenario guidance
+## Continue reading
 
-### Student visa / lower threshold
-Focus on efficient passing:
-- RA
-- RS
-- WFD
-- DI
-- basic reading blanks
-
-### 7炸
-Protect every section floor:
-- keep RS and WFD daily
-- keep RA and DI stable
-- use the weak section to decide where extra time goes
-
-### 8炸
-Keep the same engine tasks, but clean up small losses:
-- spelling
-- dropped function words
-- fluency breakdowns
-- careless low-yield mistakes
-
-## Important note on examples
-Do not assume the learner's weak area.
-Ask first, then prioritize.
+- [All 22 question types](task-map.md)
+- [Preparation roadmap](study-roadmap.md)
+- [YouTube / Reddit research](research-notes.md)

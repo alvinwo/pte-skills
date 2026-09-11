@@ -67,3 +67,11 @@ A good PR usually includes:
 - a short title
 - a short summary of what changed
 - why the change makes the repo clearer or more useful
+
+## Bilingual updates and source checks
+
+- `zh-CN/` mirrors learner-facing shared guides, task pages, and examples. Keep the same filenames and use the heading mapping in `SKILL_FORMAT.md`.
+- Update both editions when changing task instructions, time budgets, or feedback behavior. Keep machine-readable thresholds in the single `data/` JSON file.
+- Link official sources for exam facts and date-sensitive requirements; record the check date and applicable test version/date. Separate coaching priorities from official weights.
+- Check relative links and time totals. Use realistic practice requests to check that the guide works with missing scores, unavailable audio, and Chinese explanations.
+- Keep publishing drafts under `publishing/`; never include student identifiers, login credentials, or unverified score claims.

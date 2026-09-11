@@ -1,101 +1,48 @@
 # Study Plan
 
-This file gives a simple daily system.
+Choose two primary tasks, one support task, and one maintenance task using the [Priority Map](priority-map.md). Use the learner's actual time budget. These allocations are examples, not scoring weights.
 
-## Daily non-negotiables for many learners
-- RS
-- WFD
-- some RA
-- short review of repeated mistakes
+## Daily plans with exact totals
 
-## Passive practice
-RS and WFD can also be practiced passively:
-- walking
-- commuting
-- chores
-- before sleep
+| Block | 45 minutes | 60 minutes | 90 minutes |
+| --- | ---: | ---: | ---: |
+| Review yesterday's errors / warm up | 5 | 5 | 10 |
+| Primary task 1 | 15 | 20 | 25 |
+| Primary task 2 | 10 | 15 | 25 |
+| Support task | 10 | 10 | 15 |
+| Maintenance and record next review | 5 | 10 | 15 |
+| **Total** | **45** | **60** | **90** |
 
-If the learner uses prediction lists, passive listening should include the current RS and WFD predicted-question pool.
+For Writing weakness, task 1 might be WFD, task 2 SWT, support a grammar/WE exercise, and maintenance RS or RA. If WE is the main weakness, give it a full 20-minute attempt by reallocating other blocks; a 10-minute paragraph drill is not a full timed essay. For a 30-minute day, use 5 minutes review, 15 minutes on the main weakness, and 10 minutes on a support task.
 
-## Daily plan: 45 to 60 minutes
-- 10 min vocabulary / spelling
-- 10 to 30 min RA
-- 10 min RS
-- 10 min WFD
-- 10 to 20 min weak-area block
+For 120 minutes, add a 20-minute mixed block and a 10-minute break to the 90-minute plan. For 180 minutes, add a further 30-minute weak-area block, 20-minute review, and 10-minute break. Breaks are included. Do not require every task every day.
 
-## Daily plan: 90 minutes
-- 15 min RA
-- 15 min RS
-- 15 min WFD
-- 15 min weak-area block
-- 15 min second weak-area or review block
-- 15 min maintenance task
+## Practice and review
 
-## Daily plan: 2 to 3 hours
-- RA
-- RS
-- WFD
-- one reading block
-- one writing or integrated-task block
-- one review block
-- one mixed timed block
+- RS/WFD: try once without a transcript, compare afterwards, identify the lost chunk or spelling pattern, then retry later. Use unseen items too.
+- RA: a short warm-up can help, but 30 minutes of RA should not crowd out a different weak section in a 45-minute day.
+- HIW: preview while the interface allows, track the audio, and select only confirmed mismatches because incorrect selections lose points. See [Pearson Listening](https://www.pearsonpte.com/pte-academic/test-format/listening/).
+- FIB-L: brief notes can help; check plural and verb endings after listening.
+- Passive listening while commuting or doing chores is optional exposure. It does not replace an unaided attempt and correction. If using a prediction list, mix it with unfamiliar material; no hit rate is promised.
 
-## Weak-area examples
+Stop at the end of the time block even if a suggested item count is unfinished. Keep one useful correction from the session.
 
-### Speaking weak
-Use extra time on:
-- DI
-- RA
-- RS
-- then RL / SGD / RTS
+## Commute / bedtime listening: the contributor’s own routine
 
-### Listening weak
-Use extra time on:
-- WFD
-- RS
-- FIB-L
-- HIW
+Replay RS/WFD material during commutes and while still awake before bed, without requiring a formal desk session each time.
 
-### Reading weak
-Use extra time on:
-- Reading Blanks
-- Reorder Paragraph
-- SWT
+- **RS: listen until familiar; word-for-word rote memorization is not required.** Add a paused repetition when speaking is practical.
+- **WFD: after familiarity, memorization is useful when feasible.** At a desk, hide the transcript and write exactly, including small words, endings, and spelling.
+- Group items as unfamiliar / familiar by ear / reproducible in speech or writing. Repeat the first group most, and revisit the others at intervals.
+- These optional spare-time sessions are separate from the 45/60/90-minute desk budgets; this is not a recommendation to play audio during sleep.
 
-### Writing weak
-Use extra time on:
-- WFD
-- SWT
-- WE
+See [RS](../skills/pte-repeat-sentence.md) and [WFD](../skills/pte-write-from-dictation.md).
 
-## Practical notes
+## A seven-day rhythm
 
-### RS
-- make it a daily habit
-- practice predicted or high-frequency questions repeatedly if the learner uses prediction lists
-- do not let memorization replace chunking and fluency
+- Monday–Wednesday: primary-task practice plus review.
+- Thursday–Friday: weakest task and one maintained strength.
+- Saturday: mixed timed practice, or an official practice test when appropriate; allow a separate realistic time budget for a full test.
+- Sunday: light review or rest.
 
-### WFD
-- make it a daily habit
-- become very familiar with the current predicted or high-frequency pool if the learner uses one
-- still train spelling, grammar detail, and reconstruction skill
-
-### HIW
-- use the 10-second countdown to preview the text
-- follow actively, ideally with the cursor
-- click only when confident because of negative marking
-- if HIW already feels manageable, keep it low-volume
-
-### FIB-L
-- rough cue letters are enough during the audio if they help later recall
-- check singular/plural and tense or verb-form changes
-
-## Weekly rhythm
-- 3 to 4 engine days
-- 2 weakness days
-- 1 mixed simulation or mock day
-- 1 lighter review day if needed
-
-## Official mock guidance
-Official mock tests are strongly recommended before the real exam, especially to validate speaking and writing readiness.
+Compare repeated errors and recent practice evidence weekly. Move time toward the remaining gap. Official scored practice can help assess readiness, but does not guarantee the real result.

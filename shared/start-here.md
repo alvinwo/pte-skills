@@ -1,6 +1,6 @@
 # Start Here
 
-Use this repo in four steps.
+Use this repo in four steps. Scope: PTE Academic. Start with the [AI coaching guide](coaching-guide.md) when using an assistant. Use known details; ask only for missing information. If targets or results are unknown, offer provisional practice.
 
 ## Step 1: define the target
 Ask:
@@ -17,7 +17,7 @@ Ask the learner:
 - which question types feel weakest
 - whether they have recent mock scores or real scores
 
-If they do not know, infer it from score gaps or repeated task failures.
+If they do not know, use score gaps to select an area to investigate, then use short practice attempts to identify task-level problems. Section scores alone do not prove a specific task is weak.
 
 ## Step 3: build the plan
 Read:
@@ -40,3 +40,9 @@ For many learners, the first skill pages to open are:
 ## Simple rule
 Target decides the score floor.
 Weak area decides the first priority.
+
+## Continue reading
+
+- [All 22 question types](task-map.md)
+- [Preparation roadmap](study-roadmap.md)
+- [YouTube / Reddit research](research-notes.md)

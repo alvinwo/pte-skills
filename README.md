@@ -1,6 +1,8 @@
 # pte-skills
 
-A clear, strategy-first PTE prep repo.
+English | [简体中文](zh-CN/README.md)
+
+A clear, strategy-first PTE Academic prep repo. Chinese explanations and English practice are available in the [Chinese edition](zh-CN/README.md).
 
 This project helps learners decide:
 - what target they need
@@ -27,7 +29,12 @@ pte-skills/
 │  ├─ priority-map.md
 │  ├─ study-plan.md
 │  ├─ four-skills-guide.md
-│  └─ visa-requirements.md
+│  ├─ visa-requirements.md
+│  ├─ coaching-guide.md
+│  ├─ sources.md
+│  ├─ task-map.md
+│  ├─ study-roadmap.md
+│  └─ research-notes.md
 ├─ skills/
 │  ├─ pte-read-aloud.md
 │  ├─ pte-repeat-sentence.md
@@ -37,17 +44,34 @@ pte-skills/
 │  ├─ pte-respond-to-a-situation.md
 │  ├─ pte-write-from-dictation.md
 │  ├─ pte-reading-blanks.md
-│  └─ pte-summarize-written-text.md
+│  ├─ pte-summarize-written-text.md
+│  └─ ... (12 additional guides; see shared/task-map.md)
 ├─ examples/
-│  └─ study-plan-examples.md
-└─ data/
-   └─ au-home-affairs-english-requirements.json
+│  ├─ study-plan-examples.md
+│  └─ new-speaking-drills.md
+├─ data/
+│  └─ au-home-affairs-english-requirements.json
+├─ zh-CN/
+│  ├─ README.md
+│  ├─ shared/
+│  ├─ skills/
+│  └─ examples/
+└─ publishing/
+   └─ xiaohongshu-launch.zh-CN.md
 ```
 
+## Use with an AI assistant
+
+No npm or installation is needed to read these guides. Upload/paste [the coaching guide](shared/coaching-guide.md), [the study plan](shared/study-plan.md), and a relevant task page into a Markdown-friendly assistant. Upload referenced guides as needed; a pasted file does not automatically load its links.
+
+Try: “Use these PTE Academic guides. I have 45 minutes per day and Writing is my weakest section. Ask only for missing details, give me a plan that fits, then coach one task at a time. Explain in Chinese and keep exam answers in English.”
+
+The host must support audio/image input for audio/image feedback. This pack provides instructions, not an audio player or official scoring engine. Read the [coaching guide](shared/coaching-guide.md).
+
 ## Start here
-1. `shared/start-here.md`
-2. `shared/priority-map.md`
-3. `shared/study-plan.md`
+1. [Start Here](shared/start-here.md)
+2. [Priority Map](shared/priority-map.md)
+3. [Study Plan](shared/study-plan.md)
 4. the skill pages you need most
 
 ## Skill format
@@ -69,12 +93,16 @@ It is a portable Markdown instruction format.
 ## Core ideas
 1. Ask the learner for the target first.
 2. Ask the learner for the weak area first.
-3. Prioritize high-yield tasks before low-yield tasks.
+3. Prioritize observed weaknesses and required section scores; task priorities are coaching suggestions, not official weights.
 4. Keep the system simple enough to follow every day.
 5. Use official mock tests to validate readiness, especially for speaking and writing.
 
-## Current skill focus
-The repo is intentionally centered on these core skill pages:
+## Full coverage and core practice
+
+Use the [22-type task map](shared/task-map.md) to reach every current PTE Academic question type. There are 21 task guides because the two reading-blank variants share a page. Start with the [preparation roadmap](shared/study-roadmap.md), then prioritize according to actual errors.
+
+### Original core guides
+These original core pages remain available:
 - `skills/pte-read-aloud.md`
 - `skills/pte-repeat-sentence.md`
 - `skills/pte-describe-image.md`
@@ -89,7 +117,7 @@ The repo is intentionally centered on these core skill pages:
 - not a giant question bank
 - not a full scoring engine
 - not a full mock-analysis product
-- not a complete library for every single PTE task yet
+- type coverage is complete; it is not a full course, question bank, or scoring system
 
 ## Contributing
 See:
@@ -106,3 +134,13 @@ Good contributions are:
 This repo uses the MIT License.
 See:
 - `LICENSE`
+
+## Sources and sharing
+
+- [Official sources and scope](shared/sources.md) — checked 2026-09-09.
+- [Chinese student edition](zh-CN/README.md) — onboarding, all 22 question types in 21 guides, and worked examples.
+- [Xiaohongshu launch draft and tool comparison](publishing/xiaohongshu-launch.zh-CN.md).
+
+- [New-task research: YouTube and Reddit](shared/research-notes.md).
+- [Original SGD/RTS drills](examples/new-speaking-drills.md).
+- [Contributor RS/WFD listening routine](shared/study-plan.md).

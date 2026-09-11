@@ -2,10 +2,10 @@
 
 ## Purpose
 - repeat a sentence accurately and smoothly after hearing it once
-- build one of the biggest Speaking and Listening engine tasks
+- practice listening recall and spoken delivery
 
 ## When to use
-- almost always
+- when listening recall or task-specific errors justify regular practice
 - especially when Speaking is weak
 - especially when Listening is weak
 
@@ -29,14 +29,23 @@
 5. repeat failed items again later
 
 ## Special notes
-- if the learner uses prediction lists, become very familiar with the current RS pool
-- use that familiarity to support practice, not replace listening, chunking, and fluency training
+- First attempt: hear the audio once without reading the transcript; reveal it only for review.
+- Use familiar and unseen material. Prediction lists are optional, not verified forecasts.
+- If playback is unavailable, label visible-text work as memory practice, not a listening test.
+
+### Contributor-tested routine: listen to familiarity, without rote memorization
+
+Replay RS material during commutes and while still awake before bed. Become familiar with the sound and phrase groups; RS does not require memorizing every sentence word for word. When speaking is practical, pause after a sentence, repeat it, and check the unclear chunk. Rotate small playlists rather than always restarting at the beginning.
+
+This is the project contributor’s study experience, not an official guarantee. Replays belong to learning; a simulated attempt still uses one playback.
 
 ## Daily target
-- 10 to 20 items
-- almost every day
+- 10 to 20 items as a flexible starting point when regular practice is useful
+- stop at the time limit and retain time for correction
 
 ## Related files
-- `shared/four-skills-guide.md`
-- `shared/priority-map.md`
-- `shared/study-plan.md`
+- [Four Skills Guide](../shared/four-skills-guide.md)
+- [Priority Map](../shared/priority-map.md)
+- [Study Plan](../shared/study-plan.md)
+- [AI coaching guide](../shared/coaching-guide.md)
+- [Official sources](../shared/sources.md)
