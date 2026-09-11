@@ -4,6 +4,8 @@
 
 一套可以自己读、也可以交给 AI 带练的 **PTE Academic 备考指南**。先确定目标和短板，再安排今天练什么、怎么练、错了怎么改。
 
+**小红书 RED Skill：** 已提供[中文技能上传包与操作说明](../publishing/red-skill/README.zh-CN.md)，含标准技能入口、完整参考资料、ZIP及单文件备用版。
+
 中文版保留 RA、RS、WFD 等常用缩写。方法用中文讲，题目、示范答案和考试作答用英文。适用于 PTE Academic；不要直接套用到 PTE Core 或 PTE Home。
 
 ## 不懂代码，也能开始

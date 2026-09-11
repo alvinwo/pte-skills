@@ -1,5 +1,7 @@
 # pte-skills
 
+For Xiaohongshu RED Skill distribution, see the [Chinese upload package and instructions](publishing/red-skill/README.zh-CN.md), including a standard skill entrypoint, reference files, ZIP, and self-contained Markdown fallback.
+
 English | [简体中文](zh-CN/README.md)
 
 A clear, strategy-first PTE Academic prep repo. Chinese explanations and English practice are available in the [Chinese edition](zh-CN/README.md).
